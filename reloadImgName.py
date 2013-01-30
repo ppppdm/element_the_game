@@ -1,7 +1,8 @@
 import os
 
 IMG_BASE_PATH='imgs/'
-elementFloderList=['aether', 'air', 'darkness', 'death', 'entropy', 'fire', 'life']
+elementFloderList=['aether', 'air', 'darkness', 'death', 'entropy', 'fire',
+    'gravity','life', 'ligth', 'time', 'water', 'other']
 CARD_FILE='cards.txt'
 IMG_NAME_COL=0
 
@@ -23,6 +24,7 @@ file=open(CARD_FILE, 'r')
 file.readline()
 while True:
     ss=file.readline()
+    ss=ss.strip('\n')
     if ss=='':
         break
     arr=ss.split('\t')
@@ -37,6 +39,7 @@ file=open(CARD_FILE, 'a')
 for name in cardList:
     if name not in exist_cardList:
         file.write(name+'\n')
+        ##print('')
 
 file.close()
 
