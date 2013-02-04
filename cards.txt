@@ -33,20 +33,20 @@ ForestSpirit.png	森之精灵	生命	2	怪物	1	1	1点水元素：生长 森之精灵提高攻击/生命 
 ForestSpectre.png	森之幽灵	生命	3	怪物	2	3	1点水元素：生长 森之精灵提高攻击/生命 +2/+2		升级	1526	1159	7ah	战略牌
 DruidicStaff.png	德鲁伊权杖	生命	2	永久	2	7	武器：每回合结束时造成2点伤害。治疗自己5点生命。	翡翠权杖	稀有		146	5c5	辅助牌
 JadeStaff.png	翡翠权杖	生命	2	永久	4	7	武器：每回合结束时造成2点伤害。治疗自己5点生命。		升级		1298	7al	辅助牌
-AetherNymph.png	以太女神	以太											
-AetherPendulum.png	以太钟摆												
-AetherPendulumUpgraded.png	以太钟摆（升级）												
-AetherPillar.png	以太支柱												
-AetherTower.png	以太之塔												
-BallLightning.png	球状闪电												
-DimensionalShield.png													
-Electrocutor.png													
-EliteImmortal.png													
-ElitePhaseDragon.png													
-Fractal.png													
-FractalUpgraded.png													
-Immortal.png													
-Lightning.png													
+AetherNymph.png	以太女神	以太		怪物									
+AetherPendulum.png	以太钟摆			永久									
+AetherPendulumUpgraded.png	以太钟摆（升级）			永久									
+AetherPillar.png	以太支柱			永久									
+AetherTower.png	以太之塔			永久									
+BallLightning.png	球状闪电			法术									
+DimensionalShield.png	多维盾		6	永久			盾：移出相位3回合。当持盾使用时，物理攻击无法击中你。						
+Electrocutor.png	触电者		3	永久			武器：每回合结束时造成5点伤害。1点以太元素：移除目标生物任一技能。						
+EliteImmortal.png	高等仙人		7	怪物	5	4	无形：高等仙人不能成为目标。						
+ElitePhaseDragon.png	高等相位龙		14	怪物	10	6	无形：高等相位龙不能成为目标。						
+Fractal.png	分形		10	法术			将你的手牌填满目标怪物。消耗所有剩余的以太元素。						
+FractalUpgraded.png	分形（升级）		9	法术			将你的手牌填满目标怪物。消耗所有剩余的以太元素。						
+Immortal.png	仙人		6	怪物	4	3	无形：仙人不能成为目标。	高等仙人					
+Lightning.png	闪电		2	法术			对目标造成5点伤害						
 Lobotomizer.png													
 Mindgate.png													
 MindgateUpgraded.png													
