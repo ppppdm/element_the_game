@@ -33,42 +33,42 @@ ForestSpirit.png	森之精灵	生命	2	怪物	1	1	1点水元素：生长 森之精灵提高攻击/生命 
 ForestSpectre.png	森之幽灵	生命	3	怪物	2	3	1点水元素：生长 森之精灵提高攻击/生命 +2/+2		升级	1526	1159	7ah	战略牌
 DruidicStaff.png	德鲁伊权杖	生命	2	永久	2	7	武器：每回合结束时造成2点伤害。治疗自己5点生命。	翡翠权杖	稀有		146	5c5	辅助牌
 JadeStaff.png	翡翠权杖	生命	2	永久	4	7	武器：每回合结束时造成2点伤害。治疗自己5点生命。		升级		1298	7al	辅助牌
-AetherNymph.png	以太女神	以太		怪物									
-AetherPendulum.png	以太钟摆			永久									
-AetherPendulumUpgraded.png	以太钟摆（升级）			永久									
-AetherPillar.png	以太支柱			永久									
-AetherTower.png	以太之塔			永久									
-BallLightning.png	球状闪电			法术									
+AetherNymph.png	以太女神	以太	8	怪物	8	5	3点以太元素：不朽化 目标怪物不朽（不能作为目标）						
+AetherPendulum.png	以太钟摆			永久			间隔产生1点以太元素或你的标记元素。						
+AetherPendulumUpgraded.png	以太钟摆（升级）			永久			间隔产生1点以太元素或你的标记元素。额外产生1点以太元素当你放置这张卡时。						
+AetherPillar.png	以太支柱			永久			每回合产生1点以太元素。						
+AetherTower.png	以太之塔			永久			每回合产生1点生命元素。额外产生1点以太元素当你放置这张卡时。						
+BallLightning.png	球状闪电			怪物	5	0							
 DimensionalShield.png	多维盾		6	永久			盾：移出相位3回合。当持盾使用时，物理攻击无法击中你。						
 Electrocutor.png	触电者		3	永久			武器：每回合结束时造成5点伤害。1点以太元素：移除目标生物任一技能。						
 EliteImmortal.png	高等仙人		7	怪物	5	4	无形：高等仙人不能成为目标。						
 ElitePhaseDragon.png	高等相位龙		14	怪物	10	6	无形：高等相位龙不能成为目标。						
-Fractal.png	分形		10	法术			将你的手牌填满目标怪物。消耗所有剩余的以太元素。						
+Fractal.png	分形		10	法术			将你的手牌填满目标怪物。消耗所有剩余的以太元素。	分形（升级）					
 FractalUpgraded.png	分形（升级）		9	法术			将你的手牌填满目标怪物。消耗所有剩余的以太元素。						
 Immortal.png	仙人		6	怪物	4	3	无形：仙人不能成为目标。	高等仙人					
 Lightning.png	闪电		2	法术			对目标造成5点伤害						
-Lobotomizer.png													
-Mindgate.png													
-MindgateUpgraded.png													
-ParallelUniverse.png													
-PhaseDragon.png													
-PhaseRecluse.png													
-PhaseSalvager.png													
-PhaseSalvagerUpgraded.png													
-PhaseShield.png													
-PhaseSpider.png													
-Psion.png													
-PsionUpgraded.png													
-Quintessence.png													
-QuintessenceUpgraded.png													
-ShardOfWisdom.png													
-ShardOfWisdomUpgraded.png													
-Silence.png													
-SilenceUpgraded.png													
-Spark.png													
-Thunderbolt.png													
-TurquoiseNymph.png													
-TwinUniverse.png													
+Lobotomizer.png			3	永久			武器：每回合结束时造成5点伤害。2点以太元素：移除目标生物任一技能。	触电者					
+Mindgate.png	心灵门		5	永久			2点以太元素：复制对手牌堆的第一张牌到你的手牌中。	心灵门（升级）					
+MindgateUpgraded.png	心灵门（升级）		4	永久			2点以太元素：复制对手牌堆的第一张牌到你的手牌中。						
+ParallelUniverse.png	平行世界		7	法术			召唤一个与目标怪物完全相同的复制体	孪生世界					
+PhaseDragon.png	相位龙		13	怪物	8	6	无形：高等相位龙不能成为目标。	高等相位龙					
+PhaseRecluse.png	相位隐士		4	怪物	7	2	一点空气元素：网 目标怪物失去“airborne”技能。						
+PhaseSalvager.png	相位回收者		1	怪物	4	0	回收：被对手毁掉的永久卡回到你的手牌里	相位回收者（升级）					
+PhaseSalvagerUpgraded.png	相位回收者（升级）		1	怪物	6	0	回收：被对手毁掉的永久卡回到你的手牌里						
+PhaseShield.png	相位盾		5	永久			盾：转移相位3个回合。在此盾存在时不受物理伤害。						
+PhaseSpider.png	相位间谍		3	怪物	4	2	一点空气元素：网 目标怪物失去“airborne”技能。	相位隐士					
+Psion.png	Psion		4	怪物	4	4	Psion的攻击造成法术伤害	Psion（升级）					
+PsionUpgraded.png	Psion（升级）		4	怪物	5	5	Psion的攻击造成法术伤害						
+Quintessence.png	精粹		4	法术			给予目标怪物不朽。目标怪物不能成为目标。	精粹（升级）					
+QuintessenceUpgraded.png	精粹（升级）		3	法术			给予目标怪物不朽。目标怪物不能成为目标。						
+ShardOfWisdom.png	智慧之碎片		3	法术			目标怪物攻击/生命增加+4/+0并且攻击造成法术伤害如果是不朽的。	智慧之碎片（升级）					
+ShardOfWisdomUpgraded.png	智慧之碎片（升级）		2	法术			目标怪物攻击/生命增加+4/+0并且攻击造成法术伤害如果是不朽的。						
+Silence.png	沉默		3	法术			下回合对手不能使用任何卡牌。						
+SilenceUpgraded.png	沉默（升级）		2	法术			下回合对手不能使用任何卡牌。						
+Spark.png	萤火			怪物	3	0		球状闪电					
+Thunderbolt.png	霹雳		1	法术			对目标造成5点伤害						
+TurquoiseNymph.png	绿松石女神		8	怪物	7	4	3点以太元素：不朽化 目标怪物不朽（不能作为目标）	以太女神					
+TwinUniverse.png	孪生世界		6	法术			召唤一个与目标怪物完全相同的复制体						
 AirNymph.png													
 AirPendulum.png													
 AirPendulumUpgraded.png													
