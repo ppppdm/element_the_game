@@ -34,111 +34,111 @@ ForestSpectre.png	森之幽灵	生命	3	怪物	2	3	1点水元素：生长 森之精灵提高攻击/生命
 DruidicStaff.png	德鲁伊权杖	生命	2	永久	2	7	武器：每回合结束时造成2点伤害。治疗自己5点生命。	翡翠权杖	稀有		146	5c5	辅助牌
 JadeStaff.png	翡翠权杖	生命	2	永久	4	7	武器：每回合结束时造成2点伤害。治疗自己5点生命。		升级		1298	7al	辅助牌
 AetherNymph.png	以太女神	以太	8	怪物	8	5	3点以太元素：不朽化 目标怪物不朽（不能作为目标）						
-AetherPendulum.png	以太钟摆			永久			间隔产生1点以太元素或你的标记元素。						
-AetherPendulumUpgraded.png	以太钟摆（升级）			永久			间隔产生1点以太元素或你的标记元素。额外产生1点以太元素当你放置这张卡时。						
-AetherPillar.png	以太支柱			永久			每回合产生1点以太元素。						
-AetherTower.png	以太之塔			永久			每回合产生1点生命元素。额外产生1点以太元素当你放置这张卡时。						
-BallLightning.png	球状闪电			怪物	5	0							
-DimensionalShield.png	多维盾		6	永久			盾：移出相位3回合。当持盾使用时，物理攻击无法击中你。						
-Electrocutor.png	触电者		3	永久			武器：每回合结束时造成5点伤害。1点以太元素：移除目标生物任一技能。						
-EliteImmortal.png	高等仙人		7	怪物	5	4	无形：高等仙人不能成为目标。						
-ElitePhaseDragon.png	高等相位龙		14	怪物	10	6	无形：高等相位龙不能成为目标。						
-Fractal.png	分形		10	法术			将你的手牌填满目标怪物。消耗所有剩余的以太元素。	分形（升级）					
-FractalUpgraded.png	分形（升级）		9	法术			将你的手牌填满目标怪物。消耗所有剩余的以太元素。						
-Immortal.png	仙人		6	怪物	4	3	无形：仙人不能成为目标。	高等仙人					
-Lightning.png	闪电		2	法术			对目标造成5点伤害						
-Lobotomizer.png			3	永久			武器：每回合结束时造成5点伤害。2点以太元素：移除目标生物任一技能。	触电者					
-Mindgate.png	心灵门		5	永久			2点以太元素：复制对手牌堆的第一张牌到你的手牌中。	心灵门（升级）					
-MindgateUpgraded.png	心灵门（升级）		4	永久			2点以太元素：复制对手牌堆的第一张牌到你的手牌中。						
-ParallelUniverse.png	平行世界		7	法术			召唤一个与目标怪物完全相同的复制体	孪生世界					
-PhaseDragon.png	相位龙		13	怪物	8	6	无形：高等相位龙不能成为目标。	高等相位龙					
-PhaseRecluse.png	相位隐士		4	怪物	7	2	一点空气元素：网 目标怪物失去“airborne”技能。						
-PhaseSalvager.png	相位回收者		1	怪物	4	0	回收：被对手毁掉的永久卡回到你的手牌里	相位回收者（升级）					
-PhaseSalvagerUpgraded.png	相位回收者（升级）		1	怪物	6	0	回收：被对手毁掉的永久卡回到你的手牌里						
-PhaseShield.png	相位盾		5	永久			盾：转移相位3个回合。在此盾存在时不受物理伤害。						
-PhaseSpider.png	相位间谍		3	怪物	4	2	一点空气元素：网 目标怪物失去“airborne”技能。	相位隐士					
-Psion.png	Psion		4	怪物	4	4	Psion的攻击造成法术伤害	Psion（升级）					
-PsionUpgraded.png	Psion（升级）		4	怪物	5	5	Psion的攻击造成法术伤害						
-Quintessence.png	精粹		4	法术			给予目标怪物不朽。目标怪物不能成为目标。	精粹（升级）					
-QuintessenceUpgraded.png	精粹（升级）		3	法术			给予目标怪物不朽。目标怪物不能成为目标。						
-ShardOfWisdom.png	智慧之碎片		3	法术			目标怪物攻击/生命增加+4/+0并且攻击造成法术伤害如果是不朽的。	智慧之碎片（升级）					
-ShardOfWisdomUpgraded.png	智慧之碎片（升级）		2	法术			目标怪物攻击/生命增加+4/+0并且攻击造成法术伤害如果是不朽的。						
-Silence.png	沉默		3	法术			下回合对手不能使用任何卡牌。						
-SilenceUpgraded.png	沉默（升级）		2	法术			下回合对手不能使用任何卡牌。						
-Spark.png	萤火			怪物	3	0		球状闪电					
-Thunderbolt.png	霹雳		1	法术			对目标造成5点伤害						
-TurquoiseNymph.png	绿松石女神		8	怪物	7	4	3点以太元素：不朽化 目标怪物不朽（不能作为目标）	以太女神					
-TwinUniverse.png	孪生世界		6	法术			召唤一个与目标怪物完全相同的复制体						
-AirNymph.png													
-AirPendulum.png													
-AirPendulumUpgraded.png													
-AnimateWeapon.png													
-AzureDragon.png													
-BlueNymph.png													
-Damselfly.png													
-Dragonfly.png													
-EaglesEye.png													
-EliteFirefly.png													
-EliteQueen.png													
-EliteWyrm.png													
-Firefly.png													
-FireflyQueen.png													
-FlyingWeapon.png													
-FogShield.png													
-ImprovedFog.png													
-LightningStorm.png													
-OwlsEye.png													
-ShardOfFreedom.png													
-ShardOfFreedomUpgraded.png													
-Shockwave.png													
-ShockwaveUpgraded.png													
-SkyBlitz.png													
-SkyBlitzUpgraded.png													
-SkyDragon.png													
-Thunderstorm.png													
-UnstableGas.png													
-UnstableGasUpgraded.png													
-WindPillar.png													
-WindTower.png													
-Wings.png													
-WingsUpgraded.png													
-Wyrm.png													
-BlackDragon.png													
-BlackNymph.png													
-Bloodsucker.png													
-Cloak.png													
-CloakUpgraded.png													
-DarkNymph.png													
-DarkPendulum.png													
-DarkPendulumUpgraded.png													
-Devourer.png													
-DrainLife.png													
-DuskMantle.png													
-Eclipse.png													
-Gargoyle.png													
-GargoyleUpgraded.png													
-ImprovedDusk.png													
-ImprovedSteal.png													
-LiquidShadow.png													
-LiquidShadowUpgraded.png													
-MinorVampire.png													
-Nightfall.png													
-Nightmare.png													
-NightmareUpgraded.png													
-ObsidianDragon.png													
-ObsidianPillar.png													
-ObsidianTower.png													
-Parasite.png													
-Pest.png													
-ShardOfVoid.png													
-ShardOfVoidUpgraded.png													
-SiphonLife.png													
-Steal.png													
-Vampire.png													
-VampireDagger.png													
-VampireStiletto.png													
-VoodooDoll.png													
-VoodooDollUpgraded.png													
+AetherPendulum.png	以太钟摆	以太		永久			间隔产生1点以太元素或你的标记元素。						
+AetherPendulumUpgraded.png	以太钟摆（升级）	以太		永久			间隔产生1点以太元素或你的标记元素。额外产生1点以太元素当你放置这张卡时。						
+AetherPillar.png	以太支柱	以太		永久			每回合产生1点以太元素。						
+AetherTower.png	以太之塔	以太		永久			每回合产生1点生命元素。额外产生1点以太元素当你放置这张卡时。						
+BallLightning.png	球状闪电	以太		怪物	5	0							
+DimensionalShield.png	多维盾	以太	6	永久			盾：移出相位3回合。当持盾使用时，物理攻击无法击中你。						
+Electrocutor.png	触电者	以太	3	永久			武器：每回合结束时造成5点伤害。1点以太元素：移除目标生物任一技能。						
+EliteImmortal.png	高等仙人	以太	7	怪物	5	4	无形：高等仙人不能成为目标。						
+ElitePhaseDragon.png	高等相位龙	以太	14	怪物	10	6	无形：高等相位龙不能成为目标。						
+Fractal.png	分形	以太	10	法术			将你的手牌填满目标怪物。消耗所有剩余的以太元素。	分形（升级）					
+FractalUpgraded.png	分形（升级）	以太	9	法术			将你的手牌填满目标怪物。消耗所有剩余的以太元素。						
+Immortal.png	仙人	以太	6	怪物	4	3	无形：仙人不能成为目标。	高等仙人					
+Lightning.png	闪电	以太	2	法术			对目标造成5点伤害						
+Lobotomizer.png		以太	3	永久			武器：每回合结束时造成5点伤害。2点以太元素：移除目标生物任一技能。	触电者					
+Mindgate.png	心灵门	以太	5	永久			2点以太元素：复制对手牌堆的第一张牌到你的手牌中。	心灵门（升级）					
+MindgateUpgraded.png	心灵门（升级）	以太	4	永久			2点以太元素：复制对手牌堆的第一张牌到你的手牌中。						
+ParallelUniverse.png	平行世界	以太	7	法术			召唤一个与目标怪物完全相同的复制体	孪生世界					
+PhaseDragon.png	相位龙	以太	13	怪物	8	6	无形：高等相位龙不能成为目标。	高等相位龙					
+PhaseRecluse.png	相位隐士	以太	4	怪物	7	2	一点空气元素：网 目标怪物失去“airborne”技能。						
+PhaseSalvager.png	相位回收者	以太	1	怪物	4	0	回收：被对手毁掉的永久卡回到你的手牌里	相位回收者（升级）					
+PhaseSalvagerUpgraded.png	相位回收者（升级）	以太	1	怪物	6	0	回收：被对手毁掉的永久卡回到你的手牌里						
+PhaseShield.png	相位盾	以太	5	永久			盾：转移相位3个回合。在此盾存在时不受物理伤害。						
+PhaseSpider.png	相位间谍	以太	3	怪物	4	2	一点空气元素：网 目标怪物失去“airborne”技能。	相位隐士					
+Psion.png	Psion	以太	4	怪物	4	4	Psion的攻击造成法术伤害	Psion（升级）					
+PsionUpgraded.png	Psion（升级）	以太	4	怪物	5	5	Psion的攻击造成法术伤害						
+Quintessence.png	精粹	以太	4	法术			给予目标怪物不朽。目标怪物不能成为目标。	精粹（升级）					
+QuintessenceUpgraded.png	精粹（升级）	以太	3	法术			给予目标怪物不朽。目标怪物不能成为目标。						
+ShardOfWisdom.png	智慧之碎片	以太	3	法术			目标怪物攻击/生命增加+4/+0并且攻击造成法术伤害如果是不朽的。	智慧之碎片（升级）					
+ShardOfWisdomUpgraded.png	智慧之碎片（升级）	以太	2	法术			目标怪物攻击/生命增加+4/+0并且攻击造成法术伤害如果是不朽的。						
+Silence.png	沉默	以太	3	法术			下回合对手不能使用任何卡牌。						
+SilenceUpgraded.png	沉默（升级）	以太	2	法术			下回合对手不能使用任何卡牌。						
+Spark.png	萤火	以太		怪物	3	0		球状闪电					
+Thunderbolt.png	霹雳	以太	1	法术			对目标造成5点伤害						
+TurquoiseNymph.png	绿松石女神	以太	8	怪物	7	4	3点以太元素：不朽化 目标怪物不朽（不能作为目标）	以太女神					
+TwinUniverse.png	孪生世界	以太	6	法术			召唤一个与目标怪物完全相同的复制体						
+AirNymph.png	空气女神	空气	8	怪物	7	6	3点空气元素：不稳定气体 产生一个不稳定气体						
+AirPendulum.png	空气之摆	空气		永久									
+AirPendulumUpgraded.png	空气之摆（升级）	空气		永久									
+AnimateWeapon.png	武器活化	空气	1任意元素	法术			将你武器转为怪物						
+AzureDragon.png	蓝龙	空气											
+BlueNymph.png	蓝色女神	空气											
+Damselfly.png	豆娘蜓	空气											
+Dragonfly.png	龙蜓	空气											
+EaglesEye.png	老鹰之眼	空气											
+EliteFirefly.png	高等萤火虫	空气											
+EliteQueen.png	高等女王	空气											
+EliteWyrm.png	高等巨龙	空气											
+Firefly.png	萤火虫	空气											
+FireflyQueen.png	萤火虫女王	空气											
+FlyingWeapon.png	武器起飞	空气	1										
+FogShield.png	雾之盾	空气											
+ImprovedFog.png	优越雾之盾	空气											
+LightningStorm.png	光电风暴	空气											
+OwlsEye.png	猫头鹰之眼	空气											
+ShardOfFreedom.png	自由之碎片	空气											
+ShardOfFreedomUpgraded.png	自由之碎片（升级）	空气											
+Shockwave.png	冲击波	空气											
+ShockwaveUpgraded.png	冲击波（升级）	空气											
+SkyBlitz.png	天空闪电战	空气											
+SkyBlitzUpgraded.png	天空闪电战（升级）	空气											
+SkyDragon.png	天空龙	空气											
+Thunderstorm.png	雷电风暴	空气											
+UnstableGas.png	不稳定气体	空气											
+UnstableGasUpgraded.png	不稳定气体（升级）	空气											
+WindPillar.png	风之支柱	空气											
+WindTower.png	风之塔	空气											
+Wings.png	翼	空气											
+WingsUpgraded.png	翼（升级）	空气											
+Wyrm.png	巨龙	空气											
+BlackDragon.png	黑龙	黑暗											
+BlackNymph.png	黑色女神	黑暗											
+Bloodsucker.png	吸血鬼	黑暗											
+Cloak.png	斗篷	黑暗											
+CloakUpgraded.png	斗篷（升级）	黑暗											
+DarkNymph.png	黑暗女神	黑暗											
+DarkPendulum.png	黑暗钟摆	黑暗											
+DarkPendulumUpgraded.png	黑暗钟摆（升级）	黑暗											
+Devourer.png	吞噬者	黑暗											
+DrainLife.png	生命吸取	黑暗											
+DuskMantle.png	暮色斗篷	黑暗											
+Eclipse.png	日食	黑暗											
+Gargoyle.png	石像鬼	黑暗											
+GargoyleUpgraded.png	石像鬼（升级）	黑暗											
+ImprovedDusk.png	优越斗篷	黑暗											
+ImprovedSteal.png	高级偷取	黑暗											
+LiquidShadow.png	暗影之液	黑暗											
+LiquidShadowUpgraded.png	暗影之液（升级）	黑暗											
+MinorVampire.png	次吸血鬼	黑暗											
+Nightfall.png	黄昏	黑暗											
+Nightmare.png	噩梦	黑暗											
+NightmareUpgraded.png	噩梦（升级）	黑暗											
+ObsidianDragon.png	黑曜石龙	黑暗											
+ObsidianPillar.png	黑曜石支柱	黑暗											
+ObsidianTower.png	黑曜石之塔	黑暗											
+Parasite.png	寄生虫	黑暗											
+Pest.png	大毒虫	黑暗											
+ShardOfVoid.png	空隙碎片	黑暗											
+ShardOfVoidUpgraded.png	空隙碎片（升级）	黑暗											
+SiphonLife.png	生命虹吸	黑暗											
+Steal.png	偷取	黑暗											
+Vampire.png	吸血鬼	黑暗											
+VampireDagger.png	吸血鬼匕首	黑暗											
+VampireStiletto.png	吸血鬼短剑	黑暗											
+VoodooDoll.png	巫术玩偶	黑暗											
+VoodooDollUpgraded.png	巫术玩偶（升级）	黑暗											
 Aflatoxin.png													
 AflatoxinUpgraded.png													
 Arsenic.png													
