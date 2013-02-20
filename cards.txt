@@ -34,12 +34,12 @@ ForestSpectre.png	森之幽灵	生命	3	怪物	2	3	1点水元素：生长 森之精灵提高攻击/生命
 DruidicStaff.png	德鲁伊权杖	生命	2	永久	2	7	武器：每回合结束时造成2点伤害。治疗自己5点生命。	翡翠权杖	稀有		146	5c5	辅助牌
 JadeStaff.png	翡翠权杖	生命	2	永久	4	7	武器：每回合结束时造成2点伤害。治疗自己5点生命。		升级		1298	7al	辅助牌
 AetherNymph.png	以太女神	以太	8	怪物	8	5	3点以太元素：不朽化 目标怪物不朽（不能作为目标）						
-AetherPendulum.png	以太钟摆	以太		永久			间隔产生1点以太元素或你的标记元素。						
+AetherPendulum.png	以太钟摆	以太		永久			间隔产生1点以太元素或你的标记元素。	以太钟摆（升级）					
 AetherPendulumUpgraded.png	以太钟摆（升级）	以太		永久			间隔产生1点以太元素或你的标记元素。额外产生1点以太元素当你放置这张卡时。						
-AetherPillar.png	以太支柱	以太		永久			每回合产生1点以太元素。						
+AetherPillar.png	以太支柱	以太		永久			每回合产生1点以太元素。	以太之塔					
 AetherTower.png	以太之塔	以太		永久			每回合产生1点生命元素。额外产生1点以太元素当你放置这张卡时。						
 BallLightning.png	球状闪电	以太		怪物	5	0							
-DimensionalShield.png	多维盾	以太	6	永久			盾：移出相位3回合。当持盾使用时，物理攻击无法击中你。						
+DimensionalShield.png	多维盾	以太	6	永久			盾：移出相位3回合。当持盾使用时，物理攻击无法击中你。	相位盾					
 Electrocutor.png	触电者	以太	3	永久			武器：每回合结束时造成5点伤害。1点以太元素：移除目标生物任一技能。						
 EliteImmortal.png	高等仙人	以太	7	怪物	5	4	无形：高等仙人不能成为目标。						
 ElitePhaseDragon.png	高等相位龙	以太	14	怪物	10	6	无形：高等相位龙不能成为目标。						
@@ -70,23 +70,23 @@ Thunderbolt.png	霹雳	以太	1	法术			对目标造成5点伤害
 TurquoiseNymph.png	绿松石女神	以太	8	怪物	7	4	3点以太元素：不朽化 目标怪物不朽（不能作为目标）	以太女神					
 TwinUniverse.png	孪生世界	以太	6	法术			召唤一个与目标怪物完全相同的复制体						
 AirNymph.png	空气女神	空气	8	怪物	7	6	3点空气元素：不稳定气体 产生一个不稳定气体						
-AirPendulum.png	空气之摆	空气		永久									
+AirPendulum.png	空气之摆	空气		永久				空气之摆（升级）					
 AirPendulumUpgraded.png	空气之摆（升级）	空气		永久									
 AnimateWeapon.png	武器活化	空气	1任意元素	法术			将你武器转为怪物						
-AzureDragon.png	蓝龙	空气											
-BlueNymph.png	蓝色女神	空气											
-Damselfly.png	豆娘蜓	空气											
-Dragonfly.png	龙蜓	空气											
-EaglesEye.png	老鹰之眼	空气											
-EliteFirefly.png	高等萤火虫	空气											
-EliteQueen.png	高等女王	空气											
-EliteWyrm.png	高等巨龙	空气											
-Firefly.png	萤火虫	空气											
-FireflyQueen.png	萤火虫女王	空气											
-FlyingWeapon.png	武器起飞	空气	1										
-FogShield.png	雾之盾	空气											
-ImprovedFog.png	优越雾之盾	空气											
-LightningStorm.png	光电风暴	空气											
+AzureDragon.png	蓝龙	空气	10	怪物	9	6							
+BlueNymph.png	蓝色女神	空气	8	怪物	6	5	3点空气元素：不稳定气体 产生一个不稳定气体	空气女神					
+Damselfly.png	豆娘蜓	空气	0	怪物	2	1	每回合产生一点空气元素						
+Dragonfly.png	龙蜓	空气	1	怪物	1	1	每回合产生一点空气元素	豆娘蜓					
+EaglesEye.png	鹰眼之弓	空气	5	永久			武器：每回合结束造成7点伤害。2点空气元素：对目标怪物造成3点伤害。						
+EliteFirefly.png	高等萤火虫	空气	3	怪物	4	2	白炽：每回合产生一点火元素。						
+EliteQueen.png	高等女王	空气	6	怪物	3	7	2点生命元素：萤火虫 产生一个高等萤火虫						
+EliteWyrm.png	高等巨龙	空气	4	怪物	5	3	2点空气元素：潜入 本回合造成双倍伤害						
+Firefly.png	萤火虫	空气	3	怪物	3	2	萤光：每回合产生一点光元素	高等萤火虫					
+FireflyQueen.png	萤火虫女王	空气	6	怪物	3	7	2点生命元素：萤火虫 产生一个萤火虫	高等女王					
+FlyingWeapon.png	武器起飞	空气	1	法术			将你武器转为怪物						
+FogShield.png	雾之盾	空气	2	永久			盾：攻击你怪物有40%丢失概率	优越雾之盾					
+ImprovedFog.png	优越雾之盾	空气	1	永久			盾：攻击你怪物有40%丢失概率						
+LightningStorm.png	光电风暴	空气	2	法术			对所有敌方怪物造成2点伤害。移除不可见效果。						
 OwlsEye.png	猫头鹰之眼	空气											
 ShardOfFreedom.png	自由之碎片	空气											
 ShardOfFreedomUpgraded.png	自由之碎片（升级）	空气											
