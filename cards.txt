@@ -37,7 +37,7 @@ AetherNymph.png	ÒÔÌ«Å®Éñ	ÒÔÌ«	8	¹ÖÎï	8	5	3µãÒÔÌ«ÔªËØ£º²»Ðà»¯ Ä¿±ê¹ÖÎï²»Ðà£¨²»ÄÜ×
 AetherPendulum.png	ÒÔÌ«ÖÓ°Ú	ÒÔÌ«		ÓÀ¾Ã			¼ä¸ô²úÉú1µãÒÔÌ«ÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£	ÒÔÌ«ÖÓ°Ú£¨Éý¼¶£©					
 AetherPendulumUpgraded.png	ÒÔÌ«ÖÓ°Ú£¨Éý¼¶£©	ÒÔÌ«		ÓÀ¾Ã			¼ä¸ô²úÉú1µãÒÔÌ«ÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£¶îÍâ²úÉú1µãÒÔÌ«ÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
 AetherPillar.png	ÒÔÌ«Ö§Öù	ÒÔÌ«		ÓÀ¾Ã			Ã¿»ØºÏ²úÉú1µãÒÔÌ«ÔªËØ¡£	ÒÔÌ«Ö®Ëþ					
-AetherTower.png	ÒÔÌ«Ö®Ëþ	ÒÔÌ«		ÓÀ¾Ã			Ã¿»ØºÏ²úÉú1µãÉúÃüÔªËØ¡£¶îÍâ²úÉú1µãÒÔÌ«ÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
+AetherTower.png	ÒÔÌ«Ö®Ëþ	ÒÔÌ«		ÓÀ¾Ã			Ã¿»ØºÏ²úÉú1µãÒÔÌ«ÔªËØ¡£¶îÍâ²úÉú1µãÒÔÌ«ÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
 BallLightning.png	Çò×´ÉÁµç	ÒÔÌ«		¹ÖÎï	5	0							
 DimensionalShield.png	¶àÎ¬¶Ü	ÒÔÌ«	6	ÓÀ¾Ã			¶Ü£ºÒÆ³öÏàÎ»3»ØºÏ¡£µ±³Ö¶ÜÊ¹ÓÃÊ±£¬ÎïÀí¹¥»÷ÎÞ·¨»÷ÖÐÄã¡£	ÏàÎ»¶Ü					
 Electrocutor.png	´¥µçÕß	ÒÔÌ«	3	ÓÀ¾Ã			ÎäÆ÷£ºÃ¿»ØºÏ½áÊøÊ±Ôì³É5µãÉËº¦¡£1µãÒÔÌ«ÔªËØ£ºÒÆ³ýÄ¿±êÉúÎïÈÎÒ»¼¼ÄÜ¡£						
@@ -73,7 +73,7 @@ AirNymph.png	¿ÕÆøÅ®Éñ	¿ÕÆø	8	¹ÖÎï	7	6	3µã¿ÕÆøÔªËØ£º²»ÎÈ¶¨ÆøÌå ²úÉúÒ»¸ö²»ÎÈ¶¨ÆøÌå
 AirPendulum.png	¿ÕÆøÖ®°Ú	¿ÕÆø		ÓÀ¾Ã				¿ÕÆøÖ®°Ú£¨Éý¼¶£©					
 AirPendulumUpgraded.png	¿ÕÆøÖ®°Ú£¨Éý¼¶£©	¿ÕÆø		ÓÀ¾Ã									
 AnimateWeapon.png	ÎäÆ÷»î»¯	¿ÕÆø	1ÈÎÒâÔªËØ	·¨Êõ			½«ÄãÎäÆ÷×ªÎª¹ÖÎï						
-AzureDragon.png	À¶Áú	¿ÕÆø	10	¹ÖÎï	9	6							
+AzureDragon.png	À¶Áú	¿ÕÆø	10	¹ÖÎï	9	6		Ìì¿ÕÁú					
 BlueNymph.png	À¶É«Å®Éñ	¿ÕÆø	8	¹ÖÎï	6	5	3µã¿ÕÆøÔªËØ£º²»ÎÈ¶¨ÆøÌå ²úÉúÒ»¸ö²»ÎÈ¶¨ÆøÌå	¿ÕÆøÅ®Éñ					
 Damselfly.png	¶¹ÄïòÑ	¿ÕÆø	0	¹ÖÎï	2	1	Ã¿»ØºÏ²úÉúÒ»µã¿ÕÆøÔªËØ						
 Dragonfly.png	ÁúòÑ	¿ÕÆø	1	¹ÖÎï	1	1	Ã¿»ØºÏ²úÉúÒ»µã¿ÕÆøÔªËØ	¶¹ÄïòÑ					
@@ -87,23 +87,23 @@ FlyingWeapon.png	ÎäÆ÷Æð·É	¿ÕÆø	1	·¨Êõ			½«ÄãÎäÆ÷×ªÎª¹ÖÎï
 FogShield.png	ÎíÖ®¶Ü	¿ÕÆø	2	ÓÀ¾Ã			¶Ü£º¹¥»÷Äã¹ÖÎïÓÐ40%¶ªÊ§¸ÅÂÊ	ÓÅÔ½ÎíÖ®¶Ü					
 ImprovedFog.png	ÓÅÔ½ÎíÖ®¶Ü	¿ÕÆø	1	ÓÀ¾Ã			¶Ü£º¹¥»÷Äã¹ÖÎïÓÐ40%¶ªÊ§¸ÅÂÊ						
 LightningStorm.png	¹âµç·ç±©	¿ÕÆø	2	·¨Êõ			¶ÔËùÓÐµÐ·½¹ÖÎïÔì³É2µãÉËº¦¡£ÒÆ³ý²»¿É¼ûÐ§¹û¡£						
-OwlsEye.png	Ã¨Í·Ó¥Ö®ÑÛ	¿ÕÆø											
-ShardOfFreedom.png	×ÔÓÉÖ®ËéÆ¬	¿ÕÆø											
-ShardOfFreedomUpgraded.png	×ÔÓÉÖ®ËéÆ¬£¨Éý¼¶£©	¿ÕÆø											
-Shockwave.png	³å»÷²¨	¿ÕÆø											
-ShockwaveUpgraded.png	³å»÷²¨£¨Éý¼¶£©	¿ÕÆø											
-SkyBlitz.png	Ìì¿ÕÉÁµçÕ½	¿ÕÆø											
-SkyBlitzUpgraded.png	Ìì¿ÕÉÁµçÕ½£¨Éý¼¶£©	¿ÕÆø											
-SkyDragon.png	Ìì¿ÕÁú	¿ÕÆø											
-Thunderstorm.png	À×µç·ç±©	¿ÕÆø											
-UnstableGas.png	²»ÎÈ¶¨ÆøÌå	¿ÕÆø											
-UnstableGasUpgraded.png	²»ÎÈ¶¨ÆøÌå£¨Éý¼¶£©	¿ÕÆø											
-WindPillar.png	·çÖ®Ö§Öù	¿ÕÆø											
-WindTower.png	·çÖ®Ëþ	¿ÕÆø											
-Wings.png	Òí	¿ÕÆø											
-WingsUpgraded.png	Òí£¨Éý¼¶£©	¿ÕÆø											
-Wyrm.png	¾ÞÁú	¿ÕÆø											
-BlackDragon.png	ºÚÁú	ºÚ°µ											
+OwlsEye.png	Ã¨Í·Ó¥ÑÛÖ®¹­	¿ÕÆø	5	ÓÀ¾Ã			ÎäÆ÷£ºÃ¿»ØºÏ½áÊøÔì³É7µãÉËº¦¡£2µã¿ÕÆøÔªËØ£º¶ÔÄ¿±ê¹ÖÎïÔì³É3µãÉËº¦¡£	Ó¥ÑÛÖ®¹­					
+ShardOfFreedom.png	×ÔÓÉÖ®ËéÆ¬	¿ÕÆø	2	ÓÀ¾Ã			¿ÕÆøÏµ¹ÖÎïÔö¼Ó25%¼¸ÂÊÔì³É¶îÍâ50%ÉËº¦²¢ºöÊÓ¶ÜÅÆ£¬²¢ÇÒÌÓ±ÜÄ¿±êÈç¹ûÊÇ¿ÕÆøÏµ	×ÔÓÉÖ®ËéÆ¬£¨Éý¼¶£©					
+ShardOfFreedomUpgraded.png	×ÔÓÉÖ®ËéÆ¬£¨Éý¼¶£©	¿ÕÆø	1	ÓÀ¾Ã			¿ÕÆøÏµ¹ÖÎïÔö¼Ó25%¼¸ÂÊÔì³É¶îÍâ50%ÉËº¦²¢ºöÊÓ¶ÜÅÆ£¬²¢ÇÒÌÓ±ÜÄ¿±êÈç¹ûÊÇ¿ÕÆøÏµ						
+Shockwave.png	³å»÷²¨	¿ÕÆø	2	·¨Êõ			¶ÔÄ¿±êÔì³É4µãÉËº¦¡£Èç¹ûÄ¿±ê¹ÖÎï»òÎäÆ÷ÊÇ¶³½á×´Ì¬Á¢¼´´Ý»Ù¡£	³å»÷²¨£¨Éý¼¶£©					
+ShockwaveUpgraded.png	³å»÷²¨£¨Éý¼¶£©	¿ÕÆø	1	·¨Êõ			¶ÔÄ¿±êÔì³É4µãÉËº¦¡£Èç¹ûÄ¿±ê¹ÖÎï»òÎäÆ÷ÊÇ¶³½á×´Ì¬Á¢¼´´Ý»Ù¡£						
+SkyBlitz.png	Ìì¿ÕÉÁµçÕ½	¿ÕÆø	9	·¨Êõ			Ê¹ÄãËùÓÐµÄ¿ÕÆøÏµ¹ÖÎï¹¥»÷Á¦¼Ó±¶1»ØºÏ¡£ËùÓÐÊ£ÓàµÄ¿ÕÆøÔªËØ½«ÏûºÄ¡£	Ìì¿ÕÉÁµçÕ½£¨Éý¼¶£©					
+SkyBlitzUpgraded.png	Ìì¿ÕÉÁµçÕ½£¨Éý¼¶£©	¿ÕÆø	8	·¨Êõ			Ê¹ÄãËùÓÐµÄ¿ÕÆøÏµ¹ÖÎï¹¥»÷Á¦¼Ó±¶1»ØºÏ¡£ËùÓÐÊ£ÓàµÄ¿ÕÆøÔªËØ½«ÏûºÄ¡£						
+SkyDragon.png	Ìì¿ÕÁú	¿ÕÆø	12	¹ÖÎï	13	7							
+Thunderstorm.png	À×µç·ç±©	¿ÕÆø	3	·¨Êõ			¶ÔËùÓÐµÐ·½¹ÖÎïÔì³É2µãÉËº¦¡£ÒÆ³ý²»¿É¼ûÐ§¹û¡£	¹âµç·ç±©					
+UnstableGas.png	²»ÎÈ¶¨ÆøÌå	¿ÕÆø	6	ÓÀ¾Ã			1µã»ðÔªËØ£ºµãÈ¼£¨ÎþÉü±¾¿¨£©¶ÔÄãµÄ¶ÔÊÖÔì³É20µãÉËº¦²¢¶Ô³¡ÉÏËùÓÐ¹ÖÎïÔì³É1µãÉËº¦¡£	²»ÎÈ¶¨ÆøÌå£¨Éý¼¶£©					
+UnstableGasUpgraded.png	²»ÎÈ¶¨ÆøÌå£¨Éý¼¶£©	¿ÕÆø	5	ÓÀ¾Ã			1µã»ðÔªËØ£ºµãÈ¼£¨ÎþÉü±¾¿¨£©¶ÔÄãµÄ¶ÔÊÖÔì³É20µãÉËº¦²¢¶Ô³¡ÉÏËùÓÐ¹ÖÎïÔì³É1µãÉËº¦¡£						
+WindPillar.png	·çÖ®Ö§Öù	¿ÕÆø		ÓÀ¾Ã			Ã¿»ØºÏ²úÉú1µã¿ÕÆøÔªËØ¡£	·çÖ®Ëþ					
+WindTower.png	·çÖ®Ëþ	¿ÕÆø		ÓÀ¾Ã			Ã¿»ØºÏ²úÉú1µã¿ÕÆøÔªËØ¡£¶îÍâ²úÉú1µã¿ÕÆøÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
+Wings.png	Òí	¿ÕÆø	4	ÓÀ¾Ã			Ö»ÓÐ¿ÕÆøÏµ¹ÖÎïºÍÔ¶³ÌÎäÆ÷¿ÉÒÔÉËº¦Äã£¬³ÖÐø5»ØºÏ¡£	Òí£¨Éý¼¶£©					
+WingsUpgraded.png	Òí£¨Éý¼¶£©	¿ÕÆø	3	ÓÀ¾Ã			Ö»ÓÐ¿ÕÆøÏµ¹ÖÎïºÍÔ¶³ÌÎäÆ÷¿ÉÒÔÉËº¦Äã£¬³ÖÐø5»ØºÏ¡£						
+Wyrm.png	¾ÞÁú	¿ÕÆø	4	¹ÖÎï			2µã¿ÕÆøÔªËØ£ºÇ±Èë ±¾»ØºÏÔì³ÉË«±¶ÉËº¦	¸ßµÈ¾ÞÁú					
+BlackDragon.png	ºÚÁú	ºÚ°µ	10	¹ÖÎï	10	5		ºÚê×Ê¯Áú					
 BlackNymph.png	ºÚÉ«Å®Éñ	ºÚ°µ											
 Bloodsucker.png	ÎüÑª¹í	ºÚ°µ											
 Cloak.png	¶·Åñ	ºÚ°µ											
