@@ -70,8 +70,8 @@ Thunderbolt.png	Åùö¨	ÒÔÌ«	1	·¨Êõ			¶ÔÄ¿±êÔì³É5µãÉËº¦
 TurquoiseNymph.png	ÂÌËÉÊ¯Å®Éñ	ÒÔÌ«	8	¹ÖÎï	7	4	3µãÒÔÌ«ÔªËØ£º²»Ðà»¯ Ä¿±ê¹ÖÎï²»Ðà£¨²»ÄÜ×÷ÎªÄ¿±ê£©	ÒÔÌ«Å®Éñ					
 TwinUniverse.png	ÂÏÉúÊÀ½ç	ÒÔÌ«	6	·¨Êõ			ÕÙ»½Ò»¸öÓëÄ¿±ê¹ÖÎïÍêÈ«ÏàÍ¬µÄ¸´ÖÆÌå						
 AirNymph.png	¿ÕÆøÅ®Éñ	¿ÕÆø	8	¹ÖÎï	7	6	3µã¿ÕÆøÔªËØ£º²»ÎÈ¶¨ÆøÌå ²úÉúÒ»¸ö²»ÎÈ¶¨ÆøÌå						
-AirPendulum.png	¿ÕÆøÖ®°Ú	¿ÕÆø		ÓÀ¾Ã				¿ÕÆøÖ®°Ú£¨Éý¼¶£©					
-AirPendulumUpgraded.png	¿ÕÆøÖ®°Ú£¨Éý¼¶£©	¿ÕÆø		ÓÀ¾Ã									
+AirPendulum.png	¿ÕÆøÖ®°Ú	¿ÕÆø		ÓÀ¾Ã			¼ä¸ô²úÉú1µã¿ÕÆøÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£	¿ÕÆøÖ®°Ú£¨Éý¼¶£©					
+AirPendulumUpgraded.png	¿ÕÆøÖ®°Ú£¨Éý¼¶£©	¿ÕÆø		ÓÀ¾Ã			¼ä¸ô²úÉú1µã¿ÕÆøÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£¶îÍâ²úÉú1µã¿ÕÆøÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
 AnimateWeapon.png	ÎäÆ÷»î»¯	¿ÕÆø	1ÈÎÒâÔªËØ	·¨Êõ			½«ÄãÎäÆ÷×ªÎª¹ÖÎï						
 AzureDragon.png	À¶Áú	¿ÕÆø	10	¹ÖÎï	9	6		Ìì¿ÕÁú					
 BlueNymph.png	À¶É«Å®Éñ	¿ÕÆø	8	¹ÖÎï	6	5	3µã¿ÕÆøÔªËØ£º²»ÎÈ¶¨ÆøÌå ²úÉúÒ»¸ö²»ÎÈ¶¨ÆøÌå	¿ÕÆøÅ®Éñ					
@@ -104,19 +104,19 @@ Wings.png	Òí	¿ÕÆø	4	ÓÀ¾Ã			Ö»ÓÐ¿ÕÆøÏµ¹ÖÎïºÍÔ¶³ÌÎäÆ÷¿ÉÒÔÉËº¦Äã£¬³ÖÐø5»ØºÏ¡£	Òí£¨É
 WingsUpgraded.png	Òí£¨Éý¼¶£©	¿ÕÆø	3	ÓÀ¾Ã			Ö»ÓÐ¿ÕÆøÏµ¹ÖÎïºÍÔ¶³ÌÎäÆ÷¿ÉÒÔÉËº¦Äã£¬³ÖÐø5»ØºÏ¡£						
 Wyrm.png	¾ÞÁú	¿ÕÆø	4	¹ÖÎï			2µã¿ÕÆøÔªËØ£ºÇ±Èë ±¾»ØºÏÔì³ÉË«±¶ÉËº¦	¸ßµÈ¾ÞÁú					
 BlackDragon.png	ºÚÁú	ºÚ°µ	10	¹ÖÎï	10	5		ºÚê×Ê¯Áú					
-BlackNymph.png	ºÚÉ«Å®Éñ	ºÚ°µ											
-Bloodsucker.png	ÎüÑª¹í	ºÚ°µ											
-Cloak.png	¶·Åñ	ºÚ°µ											
-CloakUpgraded.png	¶·Åñ£¨Éý¼¶£©	ºÚ°µ											
-DarkNymph.png	ºÚ°µÅ®Éñ	ºÚ°µ											
-DarkPendulum.png	ºÚ°µÖÓ°Ú	ºÚ°µ											
-DarkPendulumUpgraded.png	ºÚ°µÖÓ°Ú£¨Éý¼¶£©	ºÚ°µ											
-Devourer.png	ÍÌÊÉÕß	ºÚ°µ											
-DrainLife.png	ÉúÃüÎüÈ¡	ºÚ°µ											
-DuskMantle.png	ÄºÉ«¶·Åñ	ºÚ°µ											
-Eclipse.png	ÈÕÊ³	ºÚ°µ											
-Gargoyle.png	Ê¯Ïñ¹í	ºÚ°µ											
-GargoyleUpgraded.png	Ê¯Ïñ¹í£¨Éý¼¶£©	ºÚ°µ											
+BlackNymph.png	ºÚÉ«Å®Éñ	ºÚ°µ	8	¹ÖÎï	3	5	2µãºÚ°µÔªËØ£º°µÓ°Ö®Òº Ä¿±ê¹ÖÎïÖÐ¶¾²¢ÇÒÆä¼¼ÄÜ±äÎªÎüÑª	ºÚ°µÅ®Éñ					
+Bloodsucker.png	ÎüÑª¹í	ºÚ°µ	2	¹ÖÎï	3	1	1µãËÀÍöÔªËØ£ºÃ¿»ØºÏ¶ÔÄ¿±ê¹ÖÎïÔì³É1µã¶¾ÉË¡£						
+Cloak.png	¶·Åñ	ºÚ°µ	4	ÓÀ¾Ã			3»ØºÏÄÚÄãµÄ¹ÖÎïºÍÓÀ¾Ã¿¨²»¿É¼û	¶·Åñ£¨Éý¼¶£©					
+CloakUpgraded.png	¶·Åñ£¨Éý¼¶£©	ºÚ°µ	3	ÓÀ¾Ã			3»ØºÏÄÚÄãµÄ¹ÖÎïºÍÓÀ¾Ã¿¨²»¿É¼û						
+DarkNymph.png	ºÚ°µÅ®Éñ	ºÚ°µ	8	¹ÖÎï	5	5	2µãºÚ°µÔªËØ£º°µÓ°Ö®Òº Ä¿±ê¹ÖÎïÖÐ¶¾²¢ÇÒÆä¼¼ÄÜ±äÎªÎüÑª	ºÚ°µÖÓ°Ú£¨Éý¼¶£©					
+DarkPendulum.png	ºÚ°µÖÓ°Ú	ºÚ°µ		ÓÀ¾Ã			¼ä¸ô²úÉú1µãºÚ°µÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£						
+DarkPendulumUpgraded.png	ºÚ°µÖÓ°Ú£¨Éý¼¶£©	ºÚ°µ		ÓÀ¾Ã			¼ä¸ô²úÉú1µãºÚ°µÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£¶îÍâ²úÉú1µãºÚ°µÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
+Devourer.png	ÍÌÊÉÕß	ºÚ°µ	2	¹ÖÎï	0	2	Ã¿»ØºÏ´ÓÄãµÄ¶ÔÊÖÎüÈ¡1µãÔªËØ²¢·µ»ØÄã1µã°µÔªËØ¡£1µãÍÁÔªËØ£º¾ò¶´						
+DrainLife.png	ÉúÃüÎüÈ¡	ºÚ°µ	3	·¨Êõ			ÎüÈ¡Ä¿±êÉúÃü£¬ÄãÁìµØÉÏÃ¿10µãºÚ°µÔªËØÎüÈ¡2µãÉúÃü¡£						
+DuskMantle.png	ÄºÉ«¶·Åñ	ºÚ°µ	6	ÓÀ¾Ã			¶Ü£º¹¥»÷Äã¹ÖÎïÓÐ50%¶ªÊ§¸ÅÂÊ						
+Eclipse.png	ÈÕÊ³	ºÚ°µ	4	ÓÀ¾Ã			ËùÓÐµÄËÀÍöºÍºÚ°µÏµ¹ÖÎï¹¥»÷/ÉúÃüÔö¼Ó+2/+1						
+Gargoyle.png	Ê¯Ïñ¹í	ºÚ°µ	5	¹ÖÎï	5	3	1µãÍÁÔªËØ£ºÊ¯ÏñÐÎÌ¬ Ê¯Ïñ¹íÉúÃü/¹¥»÷Ôö¼Ó+0/+20	Ê¯Ïñ¹í£¨Éý¼¶£©					
+GargoyleUpgraded.png	Ê¯Ïñ¹í£¨Éý¼¶£©	ºÚ°µ	5	¹ÖÎï	7	3	1µãÍÁÔªËØ£ºÊ¯ÏñÐÎÌ¬ Ê¯Ïñ¹íÉúÃü/¹¥»÷Ôö¼Ó+0/+20						
 ImprovedDusk.png	ÓÅÔ½¶·Åñ	ºÚ°µ											
 ImprovedSteal.png	¸ß¼¶ÍµÈ¡	ºÚ°µ											
 LiquidShadow.png	°µÓ°Ö®Òº	ºÚ°µ											
