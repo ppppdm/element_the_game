@@ -177,40 +177,40 @@ SoulCatcher.png	Éã»ê	ËÀÍö	0	ÓÀ¾Ã			Ã¿µ±ÓĞ¹ÖÎïËÀÍöÊ±£¬Éã»ê²úÉú2µãËÀÍöÔªËØ¡£	Éã»ê£
 SoulCatcherUpgraded.png	Éã»ê£¨Éı¼¶£©	ËÀÍö	0	ÓÀ¾Ã			Ã¿µ±ÓĞ¹ÖÎïËÀÍöÊ±£¬Éã»ê²úÉú3µãËÀÍöÔªËØ¡£						
 Virus.png	²¡¶¾	ËÀÍö	1	¹ÖÎï	1	1	¸ĞÈ¾£ºÎşÉü±¾¿¨Ê¹Ä¿±ê¹ÖÎïÖĞ¶¾¡£	Äæ×ªÂ¼²¡¶¾					
 Vulture.png	ÍºÓ¥	ËÀÍö	3	¹ÖÎï	0	1	ÇåµÀ·ò£ºÃ¿µ±ÓĞ¹ÖÎïËÀÍö£¬ÍºğÕ¹¥»÷/ÉúÃüÔö¼Ó+1/+1	ÍºğÕ					
-Abomination.png													
-AmethystDragon.png													
-Antimatter.png													
-ButterflyEffect.png													
-ButterflyEffectUpgraded.png													
-ChaosPower.png													
-ChaosSeed.png													
-Discord.png													
-DiscordUpgraded.png													
-DissipationField.png													
-DissipationShield.png													
-FallenDruid.png													
-FallenElf.png													
-ImprovedAntimatter.png													
-ImprovedMutation.png													
-Lycanthrope.png													
-MaxwellsDemon.png													
-MaxwellsDemonUpgraded.png													
-MicroAbomination.png													
-Mutation.png													
-Nova.png													
-Pandemonium.png													
-PandemoniumUpgraded.png													
-PurpleDragon.png													
-PurpleNymph.png													
-PurpleNymphUpgraded.png													
-SchrodingersCat.png													
-SchrodingersCatUpgraded.png													
-ShardOfSerendipity.png													
-ShardOfSerendipityUpgraded.png													
-Singularity.png													
-SingularityUpgraded.png													
-Supernova.png													
-Werewolf.png													
+Abomination.png	Ô÷¶ñ	ìØ											
+AmethystDragon.png	×Ï¾§Áú	ìØ											
+Antimatter.png	·´ÎïÖÊ	ìØ											
+ButterflyEffect.png	ºûµûĞ§Ó¦	ìØ											
+ButterflyEffectUpgraded.png	ºûµûĞ§Ó¦£¨Éı¼¶£©	ìØ											
+ChaosPower.png	»ìãçÖ®Á¦	ìØ											
+ChaosSeed.png	»ìãçÖ®ÖÖ	ìØ											
+Discord.png	²»Ğ­Ö®½£	ìØ											
+DiscordUpgraded.png	²»Ğ­Ö®½££¨Éı¼¶£©	ìØ											
+DissipationField.png	ºÄÉ¢Á¦³¡	ìØ											
+DissipationShield.png	ºÄÉ¢»¤¶Ü	ìØ											
+FallenDruid.png	¶éÂäµÂÂ³ÒÁ	ìØ											
+FallenElf.png	¶éÂä¾«Áé	ìØ											
+ImprovedAntimatter.png	Ç¿Á¦·´ÎïÖÊ	ìØ											
+ImprovedMutation.png	Ç¿Á¦Í»±ä	ìØ											
+Lycanthrope.png	±äÀÇ¿ñ	ìØ											
+MaxwellsDemon.png	Âó¿ËË¹Î¤¾«Áé	ìØ											
+MaxwellsDemonUpgraded.png	Âó¿ËË¹Î¤¾«Áé£¨Éı¼¶£©	ìØ											
+MicroAbomination.png	Î¢Ô÷¶ñ	ìØ											
+Mutation.png	Í»±ä	ìØ											
+Nova.png	ĞÂĞÇ	ìØ											
+Pandemonium.png	´ó»ìÂÒ	ìØ											
+PandemoniumUpgraded.png	´ó»ìÂÒ£¨Éı¼¶£©	ìØ											
+PurpleDragon.png	·ÛºìÁú	ìØ											
+PurpleNymph.png	·ÛºìÅ®Éñ	ìØ											
+PurpleNymphUpgraded.png	·ÛºìÅ®Éñ£¨Éı¼¶£©	ìØ											
+SchrodingersCat.png	Ñ¦¶¨ÚÌµÄÃ¨	ìØ											
+SchrodingersCatUpgraded.png	Ñ¦¶¨ÚÌµÄÃ¨£¨Éı¼¶£©	ìØ											
+ShardOfSerendipity.png	»úÇÉÖ®ËéÆ¬	ìØ											
+ShardOfSerendipityUpgraded.png	»úÇÉÖ®ËéÆ¬£¨Éı¼¶£©	ìØ											
+Singularity.png	Ææµã	ìØ											
+SingularityUpgraded.png	Ææµã£¨Éı¼¶£©	ìØ											
+Supernova.png	³¬ĞÂĞÇ	ìØ											
+Werewolf.png	ÀÇÈË	ìØ											
 Ash.png													
 AshEater.png													
 AshUpgraded.png													

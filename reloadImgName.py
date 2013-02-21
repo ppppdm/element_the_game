@@ -1,7 +1,7 @@
 import os
 
 IMG_BASE_PATH='imgs/'
-elementFloderList=['aether', 'air', 'darkness', 'death', 'entropy', 'fire',
+elementFloderList=['aether', 'air', 'darkness', 'death', 'entropy', 'fire', 'earth',
     'gravity','life', 'ligth', 'time', 'water', 'other']
 CARD_FILE='cards.txt'
 IMG_NAME_COL=0
