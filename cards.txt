@@ -56,7 +56,7 @@ PhaseRecluse.png	ÏàÎ»ÒþÊ¿	ÒÔÌ«	4	¹ÖÎï	7	2	Ò»µã¿ÕÆøÔªËØ£ºÍø Ä¿±ê¹ÖÎïÊ§È¥¡°airborn
 PhaseSalvager.png	ÏàÎ»»ØÊÕÕß	ÒÔÌ«	1	¹ÖÎï	4	0	»ØÊÕ£º±»¶ÔÊÖ»ÙµôµÄÓÀ¾Ã¿¨»Øµ½ÄãµÄÊÖÅÆÀï	ÏàÎ»»ØÊÕÕß£¨Éý¼¶£©					
 PhaseSalvagerUpgraded.png	ÏàÎ»»ØÊÕÕß£¨Éý¼¶£©	ÒÔÌ«	1	¹ÖÎï	6	0	»ØÊÕ£º±»¶ÔÊÖ»ÙµôµÄÓÀ¾Ã¿¨»Øµ½ÄãµÄÊÖÅÆÀï						
 PhaseShield.png	ÏàÎ»¶Ü	ÒÔÌ«	5	ÓÀ¾Ã			¶Ü£º×ªÒÆÏàÎ»3¸ö»ØºÏ¡£ÔÚ´Ë¶Ü´æÔÚÊ±²»ÊÜÎïÀíÉËº¦¡£						
-PhaseSpider.png	ÏàÎ»¼äµý	ÒÔÌ«	3	¹ÖÎï	4	2	Ò»µã¿ÕÆøÔªËØ£ºÍø Ä¿±ê¹ÖÎïÊ§È¥¡°airborne¡±¼¼ÄÜ¡£	ÏàÎ»ÒþÊ¿					
+PhaseSpider.png	ÏàÎ»Ö©Öë	ÒÔÌ«	3	¹ÖÎï	4	2	Ò»µã¿ÕÆøÔªËØ£ºÍø Ä¿±ê¹ÖÎïÊ§È¥¡°airborne¡±¼¼ÄÜ¡£	ÏàÎ»ÒþÊ¿					
 Psion.png	Psion	ÒÔÌ«	4	¹ÖÎï	4	4	PsionµÄ¹¥»÷Ôì³É·¨ÊõÉËº¦	Psion£¨Éý¼¶£©					
 PsionUpgraded.png	Psion£¨Éý¼¶£©	ÒÔÌ«	4	¹ÖÎï	5	5	PsionµÄ¹¥»÷Ôì³É·¨ÊõÉËº¦						
 Quintessence.png	¾«´â	ÒÔÌ«	4	·¨Êõ			¸øÓèÄ¿±ê¹ÖÎï²»Ðà¡£Ä¿±ê¹ÖÎï²»ÄÜ³ÉÎªÄ¿±ê¡£	¾«´â£¨Éý¼¶£©					
@@ -108,8 +108,8 @@ BlackNymph.png	ºÚÉ«Å®Éñ	ºÚ°µ	8	¹ÖÎï	3	5	2µãºÚ°µÔªËØ£º°µÓ°Ö®Òº Ä¿±ê¹ÖÎïÖÐ¶¾²¢ÇÒÆä
 Bloodsucker.png	ÎüÑª³æ	ºÚ°µ	2	¹ÖÎï	3	1	1µãËÀÍöÔªËØ£ºÃ¿»ØºÏ¶ÔÄ¿±ê¹ÖÎïÔì³É1µã¶¾ÉË¡£						
 Cloak.png	¶·Åñ	ºÚ°µ	4	ÓÀ¾Ã			3»ØºÏÄÚÄãµÄ¹ÖÎïºÍÓÀ¾Ã¿¨²»¿É¼û	¶·Åñ£¨Éý¼¶£©					
 CloakUpgraded.png	¶·Åñ£¨Éý¼¶£©	ºÚ°µ	3	ÓÀ¾Ã			3»ØºÏÄÚÄãµÄ¹ÖÎïºÍÓÀ¾Ã¿¨²»¿É¼û						
-DarkNymph.png	ºÚ°µÅ®Éñ	ºÚ°µ	8	¹ÖÎï	5	5	2µãºÚ°µÔªËØ£º°µÓ°Ö®Òº Ä¿±ê¹ÖÎïÖÐ¶¾²¢ÇÒÆä¼¼ÄÜ±äÎªÎüÑª	ºÚ°µÖÓ°Ú£¨Éý¼¶£©					
-DarkPendulum.png	ºÚ°µÖÓ°Ú	ºÚ°µ		ÓÀ¾Ã			¼ä¸ô²úÉú1µãºÚ°µÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£						
+DarkNymph.png	ºÚ°µÅ®Éñ	ºÚ°µ	8	¹ÖÎï	5	5	2µãºÚ°µÔªËØ£º°µÓ°Ö®Òº Ä¿±ê¹ÖÎïÖÐ¶¾²¢ÇÒÆä¼¼ÄÜ±äÎªÎüÑª						
+DarkPendulum.png	ºÚ°µÖÓ°Ú	ºÚ°µ		ÓÀ¾Ã			¼ä¸ô²úÉú1µãºÚ°µÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£	ºÚ°µÖÓ°Ú£¨Éý¼¶£©					
 DarkPendulumUpgraded.png	ºÚ°µÖÓ°Ú£¨Éý¼¶£©	ºÚ°µ		ÓÀ¾Ã			¼ä¸ô²úÉú1µãºÚ°µÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£¶îÍâ²úÉú1µãºÚ°µÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
 Devourer.png	ÍÌÊÉ³æ	ºÚ°µ	2	¹ÖÎï	0	2	Ã¿»ØºÏ´ÓÄãµÄ¶ÔÊÖÎüÈ¡1µãÔªËØ²¢·µ»ØÄã1µã°µÔªËØ¡£1µãÍÁÔªËØ£º¾ò¶´						
 DrainLife.png	ÉúÃüÎüÈ¡	ºÚ°µ	3	·¨Êõ			ÎüÈ¡Ä¿±êÉúÃü£¬ÄãÁìµØÉÏÃ¿10µãºÚ°µÔªËØÎüÈ¡2µãÉúÃü¡£	ÉúÃüºçÎü					
@@ -136,47 +136,47 @@ SiphonLife.png	ÉúÃüºçÎü	ºÚ°µ	1	·¨Êõ			ÎüÈ¡Ä¿±êÉúÃü£¬ÄãÁìµØÉÏÃ¿10µãºÚ°µÔªËØÎüÈ¡2µ
 Steal.png	ÍµÈ¡	ºÚ°µ	4	·¨Êõ			ÍµÈ¡Ò»ÕÅÓÀ¾Ã¿¨¡£						
 Vampire.png	ÎüÑª¹í	ºÚ°µ	5	¹ÖÎï	4	3	ÎüÑª£ºÔì³ÉµÄÉËº¦·µ»Ø²¢ÖÎÁÆÄã¡£						
 VampireDagger.png	ÎüÑª¹íØ°Ê×	ºÚ°µ	2	ÓÀ¾Ã			ÎäÆ÷£ºÃ¿»ØºÏ½áÊøÔì³É6µãÉËº¦¡£Ôì³ÉµÄÉËº¦·µ»Ø²¢ÖÎÁÆÄã¡£	ÎüÑª¹íØ°Ê×					
-VampireStiletto.png	ÎüÑª¹í¶Ì½£	ºÚ°µ	1	ÓÀ¾Ã			ÎäÆ÷£ºÃ¿»ØºÏ½áÊøÔì³É4µãÉËº¦¡£Ôì³ÉµÄÉËº¦·µ»Ø²¢ÖÎÁÆÄã¡£						
-VoodooDoll.png	Î×ÊõÍæÅ¼	ºÚ°µ	2	¹ÖÎï	0	16	Î×Êõ£ºÈç¹ûÕâ¸ö¹ÖÎïÔÚ¹¥»÷ÏÂ´æ»î£¬ÄãµÄ¶ÔÊÖÊÜµ½Í¬ÑùµÄÉËº¦ºÍ×´Ì¬¡£						
+VampireStiletto.png	ÎüÑª¹í¶Ì½£	ºÚ°µ	1				ÎäÆ÷£ºÃ¿»ØºÏ½áÊøÔì³É4µãÉËº¦¡£Ôì³ÉµÄÉËº¦·µ»Ø²¢ÖÎÁÆÄã¡£						
+VoodooDoll.png	Î×ÊõÍæÅ¼	ºÚ°µ	2	¹ÖÎï	0	16	Î×Êõ£ºÈç¹ûÕâ¸ö¹ÖÎïÔÚ¹¥»÷ÏÂ´æ»î£¬ÄãµÄ¶ÔÊÖÊÜµ½Í¬ÑùµÄÉËº¦ºÍ×´Ì¬¡£	Î×ÊõÍæÅ¼£¨Éý¼¶£©					
 VoodooDollUpgraded.png	Î×ÊõÍæÅ¼£¨Éý¼¶£©	ºÚ°µ	2	¹ÖÎï	0	20	Î×Êõ£ºÈç¹ûÕâ¸ö¹ÖÎïÔÚ¹¥»÷ÏÂ´æ»î£¬ÄãµÄ¶ÔÊÖÊÜµ½Í¬ÑùµÄÉËº¦ºÍ×´Ì¬¡£						
-Aflatoxin.png													
-AflatoxinUpgraded.png													
-Arsenic.png													
-ArsenicUpgraded.png													
-BoneDragon.png													
-BonePillar.png													
-BoneTower.png													
-BoneWall.png													
-BoneWallUpgraded.png													
-Boneyard.png													
-Condor.png													
-DeadlyPoison.png													
-DeathNymph.png													
-DeathPendulum.png													
-DeathPendulumUpgraded.png													
-Deathstalker.png													
-DeathstalkerUpgraded.png													
-EliteMummy.png													
-EliteSkeleton.png													
-FleshRecluse.png													
-FleshSpider.png													
-Graveyard.png													
-GreyNymph.png													
-ImprovedPlague.png													
-IvoryDragon.png													
-Mummy.png													
-Plague.png													
-Poison.png													
-Retrovirus.png													
-ShardOfSacrifice.png													
-ShardOfSacrificeUpgraded.png													
-Skeleton.png													
-SkullBuckler.png													
-SkullShield.png													
-SoulCatcher.png													
-SoulCatcherUpgraded.png													
-Virus.png													
-Vulture.png													
+Aflatoxin.png	»ÆÇúÃ¹¶¾ËØ	ËÀÍö	6	·¨Êõ			Ê¹Ä¿±êÉúÎïÖÐ¶¾¡£Èç¹ûÄ¿±êÉúÎïËÀÍö×ª±ä³É¶ñÐÔÏ¸°û¡£	»ÆÇúÃ¹¶¾ËØ£¨Éý¼¶£©					
+AflatoxinUpgraded.png	»ÆÇúÃ¹¶¾ËØ£¨Éý¼¶£©	ËÀÍö	5	·¨Êõ			Ê¹Ä¿±êÉúÎïÖÐ¶¾¡£Èç¹ûÄ¿±êÉúÎïËÀÍö×ª±ä³É¶ñÐÔÏ¸°û¡£						
+Arsenic.png	ÅøËª	ËÀÍö	2	ÓÀ¾Ã			ÎäÆ÷£ºÃ¿»ØºÏ½áÊøÔì³É2µãÉËº¦ºÍ1µã¶¾ÉË¡£¶¾ËØÉËº¦ÊÇÀÛ¼ÓµÄ¡£	ÅøËª£¨Éý¼¶£©					
+ArsenicUpgraded.png	ÅøËª£¨Éý¼¶£©	ËÀÍö	2	ÓÀ¾Ã			ÎäÆ÷£ºÃ¿»ØºÏ½áÊøÔì³É4µãÉËº¦ºÍ1µã¶¾ÉË¡£¶¾ËØÉËº¦ÊÇÀÛ¼ÓµÄ¡£						
+BoneDragon.png	¹ÇÁú	ËÀÍö	10	¹ÖÎï	10	5		ÏóÑÀÁú					
+BonePillar.png	Íö¹ÇÖ§Öù	ËÀÍö		ÓÀ¾Ã			Ã¿»ØºÏ²úÉú1µãËÀÍöÔªËØ¡£	Íö¹ÇÖ®Ëþ					
+BoneTower.png	Íö¹ÇÖ®Ëþ	ËÀÍö		ÓÀ¾Ã			Ã¿»ØºÏ²úÉú1µãËÀÍöÔªËØ¡£¶îÍâ²úÉú1µãËÀÍöÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
+BoneWall.png	¹ÇÇ½	ËÀÍö	7	ÓÀ¾Ã			ÕÙ»½7¸ö¹Ç¶Ü£¬Ã¿¸ö¹Ç¶ÜÎüÊÕÒ»¸öµ¥Ô´ÉËº¦ºóÏûÊ§¡£µ±ÓÐÉúÎïËÀÍöÔö¼Ó2¸ö¹Ç¶Ü¡£	¹ÇÇ½£¨Éý¼¶£©					
+BoneWallUpgraded.png	¹ÇÇ½£¨Éý¼¶£©	ËÀÍö	5	ÓÀ¾Ã			ÕÙ»½7¸ö¹Ç¶Ü£¬Ã¿¸ö¹Ç¶ÜÎüÊÕÒ»¸öµ¥Ô´ÉËº¦ºóÏûÊ§¡£µ±ÓÐ¹ÖÎïËÀÍöÔö¼Ó2¸ö¹Ç¶Ü¡£						
+Boneyard.png	Âñ¹ÇµØ	ËÀÍö	3	ÓÀ¾Ã			µ±ÓÐ¹ÖÎïËÀÍö£¬Âñ¹ÇµØ²úÉúÒ»¸ö÷¼÷Ã¡£						
+Condor.png	ÍºðÕ	ËÀÍö	3	¹ÖÎï	1	2	ÇåµÀ·ò£ºÃ¿µ±ÓÐ¹ÖÎïËÀÍö£¬ÍºðÕ¹¥»÷/ÉúÃüÔö¼Ó+1/+1						
+DeadlyPoison.png	ÖÂÃü¶¾Ò©	ËÀÍö	2	·¨Êõ			Ã¿»ØºÏ½áÊøÔö¼Ó3µã¶¾ÉË¡£¶¾ËØÉËº¦ÊÇÀÛ¼ÓµÄ¡£						
+DeathNymph.png	ËÀÍöÅ®Éñ	ËÀÍö	8	¹ÖÎï	8	9	»ÆÇúÃ¹¶¾ËØ£ºÊ¹Ä¿±êÉúÎïÖÐ¶¾¡£Èç¹ûÄ¿±êÉúÎïËÀÍö×ª±ä³É¶ñÐÔÏ¸°û¡£						
+DeathPendulum.png	ËÀÍöÖÓ°Ú	ËÀÍö		ÓÀ¾Ã			¼ä¸ô²úÉú1µãËÀÍöÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£	ËÀÍöÖÓ°Ú£¨Éý¼¶£©					
+DeathPendulumUpgraded.png	ËÀÍöÖÓ°Ú£¨Éý¼¶£©	ËÀÍö		ÓÀ¾Ã			¼ä¸ô²úÉú1µãËÀÍöÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£¶îÍâ²úÉú1µãËÀÍöÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
+Deathstalker.png	ËÀÍö¶¾Ð«	ËÀÍö	2	¹ÖÎï	0	1	ÖÂÃü¶¾Òº£ºÃ¿´Î³É¹¦¹¥»÷Ôö¼Ó2µã¶¾ËØÉËº¦¡£³Ôµô±¾¿¨½«ÖÐ¶¾¡£	ËÀÍö¶¾Ð«£¨Éý¼¶£©					
+DeathstalkerUpgraded.png	ËÀÍö¶¾Ð«£¨Éý¼¶£©	ËÀÍö	2	¹ÖÎï	0	3	ÖÂÃü¶¾Òº£ºÃ¿´Î³É¹¦¹¥»÷Ôö¼Ó2µã¶¾ËØÉËº¦¡£³Ôµô±¾¿¨½«ÖÐ¶¾¡£						
+EliteMummy.png	¸ßµÈÄ¾ÄËÒÁ	ËÀÍö	3	¹ÖÎï	5	3	¶Ô¸ßµÈÄ¾ÄËÒÁÊ¹ÓÃÊ±¼ä·µ»Ø½«±ä³É¸ßµÈ·¨ÀÏ¡£						
+EliteSkeleton.png	¸ßµÈ÷¼÷Ã	ËÀÍö	1	¹ÖÎï	2	2	²»ËÀ£º¶Ô¸ßµÈ÷¼÷ÃÊ¹ÓÃÊ±¼ä·µ»Ø½«±ä³ÉÈÎÒâÉúÎï¡£						
+FleshRecluse.png	Ê³ÈâÒþÊ¿	ËÀÍö	3	¹ÖÎï	6	3	Ò»µã¿ÕÆøÔªËØ£ºÍø Ä¿±ê¹ÖÎïÊ§È¥¡°airborne¡±¼¼ÄÜ¡£						
+FleshSpider.png	Ê³ÈâÖ©Öë	ËÀÍö	3	¹ÖÎï	3	3	Ò»µã¿ÕÆøÔªËØ£ºÍø Ä¿±ê¹ÖÎïÊ§È¥¡°airborne¡±¼¼ÄÜ¡£	Ê³ÈâÒþÊ¿					
+Graveyard.png	Ä¹µØ	ËÀÍö	5	ÓÀ¾Ã			µ±ÓÐ¹ÖÎïËÀÍö£¬Âñ¹ÇµØ²úÉúÒ»¸ö÷¼÷Ã¡£	Âñ¹ÇµØ					
+GreyNymph.png	»ÒÉ«Å®Éñ	ËÀÍö	8	¹ÖÎï	7	8	»ÆÇúÃ¹¶¾ËØ£ºÊ¹Ä¿±êÉúÎïÖÐ¶¾¡£Èç¹ûÄ¿±êÉúÎïËÀÍö×ª±ä³É¶ñÐÔÏ¸°û¡£	ËÀÍöÅ®Éñ					
+ImprovedPlague.png	¼ÓÇ¿ÎÁÒß	ËÀÍö	2	·¨Êõ			¸ÐÈ¾ËùÓÐ¹ÖÎï¡£ÒÆ³ý²»¿É¼û¡£						
+IvoryDragon.png	ÏóÑÀÁú	ËÀÍö	10	¹ÖÎï	11	5							
+Mummy.png	Ä¾ÄËÒÁ	ËÀÍö	4	¹ÖÎï	5	3	¶ÔÄ¾ÄËÒÁÊ¹ÓÃÊ±¼ä·µ»Ø½«±ä³É·¨ÀÏ¡£						
+Plague.png	ÎÁÒß	ËÀÍö	4	·¨Êõ			Ê¹ËùÓÐ¹ÖÎïÖÐ¶¾¡£²¢ÒÆ³ý²»¿É¼û¡£	¼ÓÇ¿ÎÁÒß					
+Poison.png	¶¾Ò©	ËÀÍö	1	·¨Êõ			Ã¿»ØºÏ½áÊøÔö¼Ó2µã¶¾ÉË¡£¶¾ËØÉËº¦ÊÇÀÛ¼ÓµÄ¡£						
+Retrovirus.png	Äæ×ªÂ¼²¡¶¾	ËÀÍö	2	¹ÖÎï	1	1	ÎÁÒß£ºÎþÉü±¾¿¨Ê¹µÐÈËËùÓÐ¹ÖÎïÖÐ¶¾¡£						
+ShardOfSacrifice.png	ÎþÉüÖ®ËéÆ¬	ËÀÍö	2	·¨Êõ			¶ÔÄã×Ô¼ºÔì³É48µãÉËº¦²¢ÒÆ³ý³ýËÀÍöÔªËØµÄÆäËûËùÓÐÔªËØ¡£Ö®ºóÊÜµ½µÄÉËº¦×ªÎªÖÎÁÆ£¬³ÖÐø2»ØºÏ¡£	ÎþÉüÖ®ËéÆ¬£¨Éý¼¶£©					
+ShardOfSacrificeUpgraded.png	ÎþÉüÖ®ËéÆ¬£¨Éý¼¶£©	ËÀÍö	1	·¨Êõ			¶ÔÄã×Ô¼ºÔì³É40µãÉËº¦²¢ÒÆ³ý³ýËÀÍöÔªËØµÄÆäËûËùÓÐÔªËØ¡£Ö®ºóÊÜµ½µÄÉËº¦×ªÎªÖÎÁÆ£¬³ÖÐø2»ØºÏ¡£						
+Skeleton.png	÷¼÷Ã	ËÀÍö	1	¹ÖÎï	1	1	²»ËÀ£º¶Ô÷¼÷ÃÊ¹ÓÃÊ±¼ä·µ»Ø½«±ä³ÉÈÎÒâÉúÎï¡£	¸ßµÈ÷¼÷Ã					
+SkullBuckler.png	Í·¹Ç¿Û	ËÀÍö	2	ÓÀ¾Ã			¶Ü£º¼õÉÙ1µãÉËº¦¡£¹¥»÷ÄãµÄ¹ÖÎïÓÐºÜÐ¡¼¸ÂÊËÀÍö²¢×ª±ä³É÷¼÷Ã¡£						
+SkullShield.png	Í·¹Ç¶Ü	ËÀÍö	3	ÓÀ¾Ã			¶Ü£º¼õÉÙ1µãÉËº¦¡£¹¥»÷ÄãµÄ¹ÖÎïÓÐºÜÐ¡¼¸ÂÊËÀÍö²¢×ª±ä³É÷¼÷Ã¡£	Í·¹Ç¿Û					
+SoulCatcher.png	Éã»ê	ËÀÍö	0	ÓÀ¾Ã			Ã¿µ±ÓÐ¹ÖÎïËÀÍöÊ±£¬Éã»ê²úÉú2µãËÀÍöÔªËØ¡£	Éã»ê£¨Éý¼¶£©					
+SoulCatcherUpgraded.png	Éã»ê£¨Éý¼¶£©	ËÀÍö	0	ÓÀ¾Ã			Ã¿µ±ÓÐ¹ÖÎïËÀÍöÊ±£¬Éã»ê²úÉú3µãËÀÍöÔªËØ¡£						
+Virus.png	²¡¶¾	ËÀÍö	1	¹ÖÎï	1	1	¸ÐÈ¾£ºÎþÉü±¾¿¨Ê¹Ä¿±ê¹ÖÎïÖÐ¶¾¡£	Äæ×ªÂ¼²¡¶¾					
+Vulture.png	ÍºÓ¥	ËÀÍö	3	¹ÖÎï	0	1	ÇåµÀ·ò£ºÃ¿µ±ÓÐ¹ÖÎïËÀÍö£¬ÍºðÕ¹¥»÷/ÉúÃüÔö¼Ó+1/+1	ÍºðÕ					
 Abomination.png													
 AmethystDragon.png													
 Antimatter.png													
@@ -283,8 +283,8 @@ Dirk.png
 Gavel.png													
 Hammer.png													
 LongSword.png													
-MalignantCell.png													
-MalignantCellUpgraded.png													
+MalignantCell.png	¶ñÐÔÏ¸°û												
+MalignantCellUpgraded.png	¶ñÐÔÏ¸°û£¨Éý¼¶£©												
 QuantumPillar.png													
 QuantumTower.png													
 Shield.png													
