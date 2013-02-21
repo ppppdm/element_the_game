@@ -105,40 +105,40 @@ WingsUpgraded.png	Òí£¨Éý¼¶£©	¿ÕÆø	3	ÓÀ¾Ã			Ö»ÓÐ¿ÕÆøÏµ¹ÖÎïºÍÔ¶³ÌÎäÆ÷¿ÉÒÔÉËº¦Äã£¬³
 Wyrm.png	¾ÞÁú	¿ÕÆø	4	¹ÖÎï			2µã¿ÕÆøÔªËØ£ºÇ±Èë ±¾»ØºÏÔì³ÉË«±¶ÉËº¦	¸ßµÈ¾ÞÁú					
 BlackDragon.png	ºÚÁú	ºÚ°µ	10	¹ÖÎï	10	5		ºÚê×Ê¯Áú					
 BlackNymph.png	ºÚÉ«Å®Éñ	ºÚ°µ	8	¹ÖÎï	3	5	2µãºÚ°µÔªËØ£º°µÓ°Ö®Òº Ä¿±ê¹ÖÎïÖÐ¶¾²¢ÇÒÆä¼¼ÄÜ±äÎªÎüÑª	ºÚ°µÅ®Éñ					
-Bloodsucker.png	ÎüÑª¹í	ºÚ°µ	2	¹ÖÎï	3	1	1µãËÀÍöÔªËØ£ºÃ¿»ØºÏ¶ÔÄ¿±ê¹ÖÎïÔì³É1µã¶¾ÉË¡£						
+Bloodsucker.png	ÎüÑª³æ	ºÚ°µ	2	¹ÖÎï	3	1	1µãËÀÍöÔªËØ£ºÃ¿»ØºÏ¶ÔÄ¿±ê¹ÖÎïÔì³É1µã¶¾ÉË¡£						
 Cloak.png	¶·Åñ	ºÚ°µ	4	ÓÀ¾Ã			3»ØºÏÄÚÄãµÄ¹ÖÎïºÍÓÀ¾Ã¿¨²»¿É¼û	¶·Åñ£¨Éý¼¶£©					
 CloakUpgraded.png	¶·Åñ£¨Éý¼¶£©	ºÚ°µ	3	ÓÀ¾Ã			3»ØºÏÄÚÄãµÄ¹ÖÎïºÍÓÀ¾Ã¿¨²»¿É¼û						
 DarkNymph.png	ºÚ°µÅ®Éñ	ºÚ°µ	8	¹ÖÎï	5	5	2µãºÚ°µÔªËØ£º°µÓ°Ö®Òº Ä¿±ê¹ÖÎïÖÐ¶¾²¢ÇÒÆä¼¼ÄÜ±äÎªÎüÑª	ºÚ°µÖÓ°Ú£¨Éý¼¶£©					
 DarkPendulum.png	ºÚ°µÖÓ°Ú	ºÚ°µ		ÓÀ¾Ã			¼ä¸ô²úÉú1µãºÚ°µÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£						
 DarkPendulumUpgraded.png	ºÚ°µÖÓ°Ú£¨Éý¼¶£©	ºÚ°µ		ÓÀ¾Ã			¼ä¸ô²úÉú1µãºÚ°µÔªËØ»òÄãµÄ±ê¼ÇÔªËØ¡£¶îÍâ²úÉú1µãºÚ°µÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
-Devourer.png	ÍÌÊÉÕß	ºÚ°µ	2	¹ÖÎï	0	2	Ã¿»ØºÏ´ÓÄãµÄ¶ÔÊÖÎüÈ¡1µãÔªËØ²¢·µ»ØÄã1µã°µÔªËØ¡£1µãÍÁÔªËØ£º¾ò¶´						
-DrainLife.png	ÉúÃüÎüÈ¡	ºÚ°µ	3	·¨Êõ			ÎüÈ¡Ä¿±êÉúÃü£¬ÄãÁìµØÉÏÃ¿10µãºÚ°µÔªËØÎüÈ¡2µãÉúÃü¡£						
-DuskMantle.png	ÄºÉ«¶·Åñ	ºÚ°µ	6	ÓÀ¾Ã			¶Ü£º¹¥»÷Äã¹ÖÎïÓÐ50%¶ªÊ§¸ÅÂÊ						
+Devourer.png	ÍÌÊÉ³æ	ºÚ°µ	2	¹ÖÎï	0	2	Ã¿»ØºÏ´ÓÄãµÄ¶ÔÊÖÎüÈ¡1µãÔªËØ²¢·µ»ØÄã1µã°µÔªËØ¡£1µãÍÁÔªËØ£º¾ò¶´						
+DrainLife.png	ÉúÃüÎüÈ¡	ºÚ°µ	3	·¨Êõ			ÎüÈ¡Ä¿±êÉúÃü£¬ÄãÁìµØÉÏÃ¿10µãºÚ°µÔªËØÎüÈ¡2µãÉúÃü¡£	ÉúÃüºçÎü					
+DuskMantle.png	ÄºÉ«¶·Åñ	ºÚ°µ	6	ÓÀ¾Ã			¶Ü£º¹¥»÷Äã¹ÖÎïÓÐ50%¶ªÊ§¸ÅÂÊ	ÓÅÔ½¶·Åñ					
 Eclipse.png	ÈÕÊ³	ºÚ°µ	4	ÓÀ¾Ã			ËùÓÐµÄËÀÍöºÍºÚ°µÏµ¹ÖÎï¹¥»÷/ÉúÃüÔö¼Ó+2/+1						
 Gargoyle.png	Ê¯Ïñ¹í	ºÚ°µ	5	¹ÖÎï	5	3	1µãÍÁÔªËØ£ºÊ¯ÏñÐÎÌ¬ Ê¯Ïñ¹íÉúÃü/¹¥»÷Ôö¼Ó+0/+20	Ê¯Ïñ¹í£¨Éý¼¶£©					
 GargoyleUpgraded.png	Ê¯Ïñ¹í£¨Éý¼¶£©	ºÚ°µ	5	¹ÖÎï	7	3	1µãÍÁÔªËØ£ºÊ¯ÏñÐÎÌ¬ Ê¯Ïñ¹íÉúÃü/¹¥»÷Ôö¼Ó+0/+20						
-ImprovedDusk.png	ÓÅÔ½¶·Åñ	ºÚ°µ											
-ImprovedSteal.png	¸ß¼¶ÍµÈ¡	ºÚ°µ											
-LiquidShadow.png	°µÓ°Ö®Òº	ºÚ°µ											
-LiquidShadowUpgraded.png	°µÓ°Ö®Òº£¨Éý¼¶£©	ºÚ°µ											
-MinorVampire.png	´ÎÎüÑª¹í	ºÚ°µ											
-Nightfall.png	»Æ»è	ºÚ°µ											
-Nightmare.png	Ø¬ÃÎ	ºÚ°µ											
-NightmareUpgraded.png	Ø¬ÃÎ£¨Éý¼¶£©	ºÚ°µ											
-ObsidianDragon.png	ºÚê×Ê¯Áú	ºÚ°µ											
-ObsidianPillar.png	ºÚê×Ê¯Ö§Öù	ºÚ°µ											
-ObsidianTower.png	ºÚê×Ê¯Ö®Ëþ	ºÚ°µ											
-Parasite.png	¼ÄÉú³æ	ºÚ°µ											
-Pest.png	´ó¶¾³æ	ºÚ°µ											
-ShardOfVoid.png	¿ÕÏ¶ËéÆ¬	ºÚ°µ											
-ShardOfVoidUpgraded.png	¿ÕÏ¶ËéÆ¬£¨Éý¼¶£©	ºÚ°µ											
-SiphonLife.png	ÉúÃüºçÎü	ºÚ°µ											
-Steal.png	ÍµÈ¡	ºÚ°µ											
-Vampire.png	ÎüÑª¹í	ºÚ°µ											
-VampireDagger.png	ÎüÑª¹íØ°Ê×	ºÚ°µ											
-VampireStiletto.png	ÎüÑª¹í¶Ì½£	ºÚ°µ											
-VoodooDoll.png	Î×ÊõÍæÅ¼	ºÚ°µ											
-VoodooDollUpgraded.png	Î×ÊõÍæÅ¼£¨Éý¼¶£©	ºÚ°µ											
+ImprovedDusk.png		ºÚ°µ	5	ÓÀ¾Ã			¶Ü£º¹¥»÷Äã¹ÖÎïÓÐ50%¶ªÊ§¸ÅÂÊ						
+ImprovedSteal.png	¸ß¼¶ÍµÈ¡	ºÚ°µ	3	·¨Êõ			ÍµÈ¡Ò»ÕÅÓÀ¾Ã¿¨¡£						
+LiquidShadow.png	°µÓ°Ö®Òº	ºÚ°µ	4	·¨Êõ			Ä¿±ê¹ÖÎïÖÐ¶¾²¢»ñµÃ¼¼ÄÜÎüÑª¡£ÒÆ³ýÔ­ÓÐµÄ¼¼ÄÜ¡£	°µÓ°Ö®Òº£¨Éý¼¶£©					
+LiquidShadowUpgraded.png	°µÓ°Ö®Òº£¨Éý¼¶£©	ºÚ°µ	3	·¨Êõ			Ä¿±ê¹ÖÎïÖÐ¶¾²¢»ñµÃ¼¼ÄÜÎüÑª¡£ÒÆ³ýÔ­ÓÐµÄ¼¼ÄÜ¡£						
+MinorVampire.png	Ð¡ÎüÑª¹í	ºÚ°µ	3	¹ÖÎï	2	2	ÎüÑª£ºÔì³ÉµÄÉËº¦·µ»Ø²¢ÖÎÁÆÄã¡£	ÎüÑª¹í					
+Nightfall.png	»Æ»è	ºÚ°µ	3	ÓÀ¾Ã			ËùÓÐµÄËÀÍöºÍºÚ°µÏµ¹ÖÎï¹¥»÷/ÉúÃüÔö¼Ó+1/+1	ÈÕÊ³					
+Nightmare.png	Ø¬ÃÎ	ºÚ°µ	2	·¨Êõ			ÓÃÄ¿±êÉúÎï¿¨ÅÆÌîÂú¶ÔÊÖµÄÊÖÅÆ¡£Ã¿ÕÅ¿¨ÅÆÎüÈ¡2µãÉúÃü¡£						
+NightmareUpgraded.png	Ø¬ÃÎ£¨Éý¼¶£©	ºÚ°µ	1	·¨Êõ			ÓÃÄ¿±êÉúÎï¿¨ÅÆÌîÂú¶ÔÊÖµÄÊÖÅÆ¡£Ã¿ÕÅ¿¨ÅÆÎüÈ¡2µãÉúÃü¡£	Ø¬ÃÎ£¨Éý¼¶£©					
+ObsidianDragon.png	ºÚê×Ê¯Áú	ºÚ°µ	12	¹ÖÎï	12	6							
+ObsidianPillar.png	ºÚê×Ê¯Ö§Öù	ºÚ°µ		ÓÀ¾Ã			Ã¿»ØºÏ²úÉú1µãºÚ°µÔªËØ¡£						
+ObsidianTower.png	ºÚê×Ê¯Ö®Ëþ	ºÚ°µ		ÓÀ¾Ã			Ã¿»ØºÏ²úÉú1µãºÚ°µÔªËØ¡£¶îÍâ²úÉú1µãºÚ°µÔªËØµ±Äã·ÅÖÃÕâÕÅ¿¨Ê±¡£						
+Parasite.png	¼ÄÉú³æ	ºÚ°µ	2	¹ÖÎï	1	1	1µãËÀÍöÔªËØ£ºÃ¿»ØºÏ¶ÔÄ¿±ê¹ÖÎïÔì³É1µã¶¾ÉË¡£	ÎüÑª³æ					
+Pest.png	´óÍÌÊÉ³æ	ºÚ°µ	2	¹ÖÎï	0	4	Ã¿»ØºÏ´ÓÄãµÄ¶ÔÊÖÎüÈ¡1µãÔªËØ²¢·µ»ØÄã1µã°µÔªËØ¡£1µãÍÁÔªËØ£º¾ò¶´						
+ShardOfVoid.png	¿ÕÏ¶ËéÆ¬	ºÚ°µ	2	ÓÀ¾Ã			Ã¿»ØºÏ½µµÍ¶ÔÊÖµÄ2µã×î´óÉúÃüÖµ¡£Èç¹ûÄãµÄ±ê¼ÇÊÇºÚ°µ½µµÍ3µã¡£	¿ÕÏ¶ËéÆ¬£¨Éý¼¶£©					
+ShardOfVoidUpgraded.png	¿ÕÏ¶ËéÆ¬£¨Éý¼¶£©	ºÚ°µ	1	ÓÀ¾Ã			Ã¿»ØºÏ½µµÍ¶ÔÊÖµÄ2µã×î´óÉúÃüÖµ¡£Èç¹ûÄãµÄ±ê¼ÇÊÇºÚ°µ½µµÍ3µã¡£						
+SiphonLife.png	ÉúÃüºçÎü	ºÚ°µ	1	·¨Êõ			ÎüÈ¡Ä¿±êÉúÃü£¬ÄãÁìµØÉÏÃ¿10µãºÚ°µÔªËØÎüÈ¡2µãÉúÃü¡£						
+Steal.png	ÍµÈ¡	ºÚ°µ	4	·¨Êõ			ÍµÈ¡Ò»ÕÅÓÀ¾Ã¿¨¡£						
+Vampire.png	ÎüÑª¹í	ºÚ°µ	5	¹ÖÎï	4	3	ÎüÑª£ºÔì³ÉµÄÉËº¦·µ»Ø²¢ÖÎÁÆÄã¡£						
+VampireDagger.png	ÎüÑª¹íØ°Ê×	ºÚ°µ	2	ÓÀ¾Ã			ÎäÆ÷£ºÃ¿»ØºÏ½áÊøÔì³É6µãÉËº¦¡£Ôì³ÉµÄÉËº¦·µ»Ø²¢ÖÎÁÆÄã¡£	ÎüÑª¹íØ°Ê×					
+VampireStiletto.png	ÎüÑª¹í¶Ì½£	ºÚ°µ	1	ÓÀ¾Ã			ÎäÆ÷£ºÃ¿»ØºÏ½áÊøÔì³É4µãÉËº¦¡£Ôì³ÉµÄÉËº¦·µ»Ø²¢ÖÎÁÆÄã¡£						
+VoodooDoll.png	Î×ÊõÍæÅ¼	ºÚ°µ	2	¹ÖÎï	0	16	Î×Êõ£ºÈç¹ûÕâ¸ö¹ÖÎïÔÚ¹¥»÷ÏÂ´æ»î£¬ÄãµÄ¶ÔÊÖÊÜµ½Í¬ÑùµÄÉËº¦ºÍ×´Ì¬¡£						
+VoodooDollUpgraded.png	Î×ÊõÍæÅ¼£¨Éý¼¶£©	ºÚ°µ	2	¹ÖÎï	0	20	Î×Êõ£ºÈç¹ûÕâ¸ö¹ÖÎïÔÚ¹¥»÷ÏÂ´æ»î£¬ÄãµÄ¶ÔÊÖÊÜµ½Í¬ÑùµÄÉËº¦ºÍ×´Ì¬¡£						
 Aflatoxin.png													
 AflatoxinUpgraded.png													
 Arsenic.png													
