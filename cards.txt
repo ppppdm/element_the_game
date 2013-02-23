@@ -243,41 +243,41 @@ Seraph.png
 SeraphUpgraded.png													
 ShardOfBravery.png													
 ShardOfBraveryUpgraded.png													
-Acceleration.png													
-AmberNymph.png													
-Armagio.png													
-BlackHole.png													
-BlackHoleUpgraded.png													
-Catapult.png													
-Chimera.png													
-ChimeraUpgraded.png													
-ColossalDragon.png													
-EliteArmagio.png													
-EliteCharger.png													
-EliteOtyugh.png													
-GravitonFireEater.png													
-GravitonFiremaster.png													
-GravitonGuard.png													
-GravitonMercenary.png													
-GravitonSalvager.png													
-GravitonSalvagerUpgraded.png													
-GravityForce.png													
-GravityNymph.png													
-GravityPull.png													
-GravityShield.png													
-GravityShieldUpgraded.png													
-MassiveDragon.png													
-Momentum.png													
-Otyugh.png													
-Overdrive.png													
-SapphireCharger.png													
-ShardOfFocus.png													
-ShardOfFocusUpgraded.png													
-Thumbs.db													
-Titan.png													
-TitanUpgraded.png													
-Trebuchet.png													
-Unstoppable.png													
+Acceleration.png	加速度	引力											
+AmberNymph.png	琥珀女神	引力											
+Armagio.png	阿玛吉奥	引力											
+BlackHole.png	黑洞	引力											
+BlackHoleUpgraded.png	黑洞（升级）	引力											
+Catapult.png	投石机	引力											
+Chimera.png	奇美拉	引力											
+ChimeraUpgraded.png	奇美拉（升级）	引力											
+ColossalDragon.png	巨龙	引力											
+EliteArmagio.png	高等阿玛吉奥	引力											
+EliteCharger.png	高等战马	引力											
+EliteOtyugh.png	高等大嘴	引力											
+GravitonFireEater.png	引力吞火者	引力											
+GravitonFiremaster.png	引力火焰大师	引力											
+GravitonGuard.png	引力守卫	引力											
+GravitonMercenary.png	引力雇佣兵	引力											
+GravitonSalvager.png	引力救护者	引力											
+GravitonSalvagerUpgraded.png	引力救护者（升级）	引力											
+GravityForce.png	引力	引力											
+GravityNymph.png	引力女神	引力											
+GravityPull.png	引力牵引	引力											
+GravityShield.png	引力盾	引力											
+GravityShieldUpgraded.png	引力盾（升级）	引力											
+MassiveDragon.png	超大龙	引力											
+Momentum.png	动量	引力											
+Otyugh.png	大嘴	引力											
+Overdrive.png	加速装置	引力											
+SapphireCharger.png	蓝宝石战马	引力											
+ShardOfFocus.png	集中之碎片	引力											
+ShardOfFocusUpgraded.png	集中之碎片（升级）	引力											
+Thumbs.db	大拇指	引力											
+Titan.png	泰坦之锤	引力											
+TitanUpgraded.png	泰坦之锤（升级）	引力											
+Trebuchet.png	增强投石机	引力											
+Unstoppable.png	不可阻挡	引力											
 Dagger.png													
 Dirk.png													
 Gavel.png													
@@ -291,35 +291,35 @@ Shield.png
 ShortBow.png													
 ShortSword.png													
 TowerShield.png													
-Anubis.png													
-DejaVu.png													
-DevonianDragon.png													
-DuneScorpion.png													
-DuneScorpionUpgraded.png													
-ElectrumHourglass.png													
-EliteAnubis.png													
-EliteDejaVu.png													
-EliteScarab.png													
-Eternity.png													
-EternityUpgraded.png													
-FateEgg.png													
-FateEggUpgraded.png													
-GhostOfThePast.png													
-GhostOfThePastUpgraded.png													
-GoldenHourglass.png													
-GoldenNymph.png													
-GoldenNymphUpgraded.png													
-Pharaoh.png													
-PharaohUpgraded.png													
-Precognition.png													
-PrecognitionUpgraded.png													
-Procrastination.png													
-ReverseTime.png													
-Rewind.png													
-Scarab.png													
-ShardOfReadiness.png													
-ShardOfReadinessUpgraded.png													
-SilurianDragon.png													
-Sundial.png													
-SundialUpgraded.png													
-TurtleShield.png													
+Anubis.png		时间											
+DejaVu.png		时间											
+DevonianDragon.png		时间											
+DuneScorpion.png		时间											
+DuneScorpionUpgraded.png		时间											
+ElectrumHourglass.png		时间											
+EliteAnubis.png		时间											
+EliteDejaVu.png		时间											
+EliteScarab.png		时间											
+Eternity.png		时间											
+EternityUpgraded.png		时间											
+FateEgg.png		时间											
+FateEggUpgraded.png		时间											
+GhostOfThePast.png		时间											
+GhostOfThePastUpgraded.png		时间											
+GoldenHourglass.png		时间											
+GoldenNymph.png		时间											
+GoldenNymphUpgraded.png		时间											
+Pharaoh.png		时间											
+PharaohUpgraded.png		时间											
+Precognition.png		时间											
+PrecognitionUpgraded.png		时间											
+Procrastination.png		时间											
+ReverseTime.png		时间											
+Rewind.png		时间											
+Scarab.png		时间											
+ShardOfReadiness.png		时间											
+ShardOfReadinessUpgraded.png		时间											
+SilurianDragon.png		时间											
+Sundial.png		时间											
+SundialUpgraded.png		时间											
+TurtleShield.png		时间											
